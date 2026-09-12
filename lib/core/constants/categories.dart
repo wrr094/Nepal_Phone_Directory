@@ -1,0 +1,15 @@
+const directoryCategories = <String>[
+  'Emergency Services',
+  'Police & Security',
+  'Health & Ambulance',
+  'Hospitals',
+  'Women & Children',
+  'Government Services',
+  'Government Complaints',
+  'Electricity & Utilities',
+  'Disaster & Rescue',
+  'Travel & Tourism',
+  'Information & Inquiry',
+  'Ward Offices',
+  'Other',
+];
