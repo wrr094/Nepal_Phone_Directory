@@ -3,18 +3,21 @@ set -euo pipefail
 
 PROJECT_NAME="${1:-${CLOUDFLARE_PAGES_PROJECT:-nepal-helpline-data}}"
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-MANIFEST_URL="https://${PROJECT_NAME}.pages.dev/data/manifest.json"
+MANIFEST_URL="https://${PROJECT_NAME}.pages.dev/data/v2/manifest.json"
 
 cd "$ROOT_DIR"
 
-echo "Generating legacy remote JSON data for already-published app versions..."
+LEGACY_OUTPUT_DIRECTORY="$(mktemp -d "${TMPDIR:-/tmp}/nepal_helpline_legacy.XXXXXX")"
+trap 'rm -rf "$LEGACY_OUTPUT_DIRECTORY"' EXIT
+
+echo "Generating source documentation from the CSV..."
 dart run tool/generate_remote_data.dart \
   assets/data/nepal_public_phone_directory.csv \
-  remote_data/data \
+  "$LEGACY_OUTPUT_DIRECTORY" \
   "$(date -u +contacts-%Y-%m-%d-%H-%M-%S)" \
   remote_data/docs
 
-echo "Generating chunked v1 remote data for current and future app versions..."
+echo "Generating chunked v1 remote data..."
 python3 scripts/publish_chunked_directory.py \
   --input assets/data/nepal_public_phone_directory.csv \
   --output remote_data/data/v2 \

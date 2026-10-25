@@ -1,14 +1,14 @@
 # Nepal HelpLine Official Sources
 
-Last generated: 2026-09-12T05:18:44.123395Z
+Last generated: 2026-10-25T01:48:27.175996Z
 
 Nepal HelpLine is an independent directory app. It does not represent, endorse, or act on behalf of any government entity.
 
 Every directory record in this release includes its original source URL. Each contact detail page in the app shows the source name, source type, verification status, last checked date, and source URL.
 
-Total contacts in current dataset: 21445
-Unique source URLs: 2380
-Official or public-service source URLs: 2297
+Total contacts in current dataset: 24448
+Unique source URLs: 2625
+Official or public-service source URLs: 2541
 Complete record-level source register: contact_sources.csv (one row per directory record).
 
 ## Primary Official Sources
@@ -47,6 +47,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Ward Offices
 - Aamchok Rural Municipality official website | Official Municipality | 18 contact(s) | https://aamchowkmun.gov.np/staffs
   Categories: Government Services, Ward Offices, Health & Ambulance
+- Official public service website | Official Government | 1 contact(s) | https://aaobutwal.moha.gov.np/post/b-taval-upamaha-nagarapa-l-ka
+  Categories: Government Services
 - Official government website | Official Government | 1 contact(s) | https://aaochainpur.moha.gov.np/en
   Categories: Government Services
 - Area Administration Office, Katari | Official Government | 7 contact(s) | https://aaokatari.moha.gov.np/en/members?filter=Filter+Member
@@ -73,6 +75,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Hospitals
 - Official organisation website | Official Organisation | 1 contact(s) | https://amadablamhydro.com.np/contact/
   Categories: Electricity & Utilities
+- AMDA Nepal official website | Official NGO | 1 contact(s) | https://amda.org.np/contact-us-aihs-butwal.html
+  Categories: Women & Children
+- Ankuram Academy official website | Official Organisation | 1 contact(s) | https://ankuram.edu.np/new-members/
+  Categories: Other
 - Api Himal Rural Municipality Official Website | Official Municipality | 1 contact(s) | https://apihimalmun.gov.np/
   Categories: Government Services
 - Api Himal Rural Municipality Official Website | Official Municipality | 16 contact(s) | https://apihimalmun.gov.np/officials
@@ -91,6 +97,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Other
 - Official Bagmati Province Government Website | Official Government | 1 contact(s) | https://atc.bagamati.gov.np/sites/default/files/publication-file/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%97%E0%A4%A4%E0%A4%BF-%E0%A4%AA%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AC-%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AD-_0.pdf
   Categories: Government Services
+- AVSES official website | Official Organisation | 1 contact(s) | https://avses.edu.np/about-us
+  Categories: Other
 - Kamana Sewa Bikas Bank annual report | Official Organisation | 1 contact(s) | https://backend.kamanasewabank.com/storage/reports/2023/01/7395-KSBBL%20Annual%20Report.pdf
   Categories: Other
 - Badikedar Rural Municipality Official Website | Official Municipality | 1 contact(s) | https://badikedarmun.gov.np/contact
@@ -237,6 +245,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Complaints
 - Bakaiya Rural Municipality official website footer/contact details | Official Municipality | 1 contact(s) | https://bakaiyamun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A7%E0%A5%A8
   Categories: Information & Inquiry
+- Bakena Bal Batika School official website | Official Organisation | 1 contact(s) | https://bakena.edu.np/
+  Categories: Other
 - Balephi official website | Official Municipality | 1 contact(s) | https://balephimun.gov.np/
   Categories: Government Services
 - Balephi health institution page | Official Municipality | 1 contact(s) | https://balephimun.gov.np/content/%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%AD%E0%A5%82%E0%A4%A4-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE-%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%9C%E0%A4%BE%E0%A4%B2%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%80
@@ -269,6 +279,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Health & Ambulance, Women & Children, Government Services, Government Complaints
 - Banepa Municipality elected representatives PDF | Official Municipality | 15 contact(s) | https://banepamun.gov.np/sites/banepamun.gov.np/files/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%A4%20%E0%A4%9C%E0%A4%A8%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%B9%E0%A4%B0%E0%A5%82%E0%A4%95%E0%A5%8B%20%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A5%A8%E0%A5%A6%E0%A5%AE%E0%A5%A7%20%E0%A5%A6%E0%A5%A7%20%E0%A5%A8%E0%A5%AD.pdf
   Categories: Government Services, Ward Offices
+- Banganga Municipality official website | Official Municipality | 30 contact(s) | https://bangangamun.gov.np/en
+  Categories: Government Services, Emergency Services, Health & Ambulance, Police & Security
+- Banganga Municipality official website | Official Municipality | 16 contact(s) | https://bangangamun.gov.np/en/staff
+  Categories: Government Services, Health & Ambulance, Other, Information & Inquiry
 - Bannigadhi Jaygadh Rural Municipality Official Website | Official Municipality | 1 contact(s) | https://bannigadhijaygadhmun.gov.np/
   Categories: Government Services
 - Bannigadhi Jaygadh Rural Municipality Official Website | Official Municipality | 8 contact(s) | https://bannigadhijaygadhmun.gov.np/officials
@@ -279,6 +293,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Belbari Chamber of Commerce & Industries official branch listing | Official Organisation | 1 contact(s) | https://baracci.org.np/branch.html
   Categories: Other
+- Barahapokhari Rural Municipality | Official Municipality | 9 contact(s) | https://barahapokharimun.gov.np/officials
+  Categories: Government Services, Ward Offices, Women & Children
 - Bahrabise Municipality homepage | Official Municipality | 2 contact(s) | https://barhabisemun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Bahrabise Municipality officials page | Official Municipality | 10 contact(s) | https://barhabisemun.gov.np/officials
@@ -351,6 +367,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Bethanchowk municipality staff directory | Official Municipality | 26 contact(s) | https://bethanchowkmun.gov.np/staff
   Categories: Health & Ambulance, Women & Children, Government Services, Information & Inquiry
+- Bhairahawa Multispeciality Hospital official contact page | Official Hospital | 1 contact(s) | https://bhairahawahospital.com/contact-us/
+  Categories: Hospitals
 - Bhaktapur Municipality Contact Page | Official Municipality | 3 contact(s) | https://bhaktapurmun.gov.np/en/content/contact
   Categories: Government Services, Information & Inquiry, Government Complaints
 - Bhaktapur Municipality Ward 1 Page | Official Municipality | 1 contact(s) | https://bhaktapurmun.gov.np/en/content/ward-no-1
@@ -387,6 +405,12 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Health & Ambulance
 - Bharatpur Metropolitan City staff directory | Official Municipality | 29 contact(s) | https://bharatpurmun.gov.np/en/staff
   Categories: Information & Inquiry, Government Services, Travel & Tourism
+- Bharatpur Metropolitan City Education Bulletin 2078 | Official Government | 33 contact(s) | https://bharatpurmun.gov.np/sites/bharatpurmun.gov.np/files/documents/%E0%A4%B6%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95%20%E0%A4%AC%E0%A5%81%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%A8%20%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AE.pdf
+  Categories: Other
+- Bharatpur Metropolitan City Education Bulletin 2082 | Official Government | 235 contact(s) | https://bharatpurmun.gov.np/sites/bharatpurmun.gov.np/files/documents/%E0%A4%B6%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95%20%E0%A4%AC%E0%A5%81%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%A8%20%E0%A5%A8%E0%A5%A6%E0%A5%AE%E0%A5%A8.pdf
+  Categories: Other
+- Bharatpur Metropolitan City Education Bulletin 2078 | Official Government | 16 contact(s) | https://bharatpurmun.gov.np/sites/bharatpurmun.gov.np/files/documents/%E0%A4%B6%E0%A5%8C%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95%20%E0%A4%AC%E0%A5%81%E0%A4%B2%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%A8%20%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AE.pdf
+  Categories: Other
 - Bhimeshwor municipality homepage | Official Municipality | 2 contact(s) | https://bhimeshwormun.gov.np/en
   Categories: Government Services, Government Complaints
 - Bhimeshwor municipality elected officials page | Official Municipality | 5 contact(s) | https://bhimeshwormun.gov.np/en/elected-officials
@@ -435,8 +459,16 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Bhotekoshi Rural Municipality official ward page | Official Municipality | 1 contact(s) | https://bhotekoshimun.gov.np/ward5
   Categories: Ward Offices
-- Bhotkhola Rural Municipality official staff directory | Official Municipality | 20 contact(s) | https://bhotkholamun.gov.np/staff
-  Categories: Government Services, Health & Ambulance, Ward Offices
+- Bhotkhola Rural Municipality | Official Municipality | 3 contact(s) | https://bhotkholamun.gov.np/
+  Categories: Information & Inquiry, Police & Security, Disaster & Rescue
+- Bhotkhola Rural Municipality | Official Municipality | 1 contact(s) | https://bhotkholamun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%AB
+  Categories: Ward Offices
+- Bhotkhola Rural Municipality | Official Municipality | 1 contact(s) | https://bhotkholamun.gov.np/node/153
+  Categories: Ward Offices
+- Bhotkhola Rural Municipality | Official Municipality | 4 contact(s) | https://bhotkholamun.gov.np/officials
+  Categories: Government Services, Ward Offices
+- Bhotkhola Rural Municipality official staff directory | Official Municipality | 29 contact(s) | https://bhotkholamun.gov.np/staff
+  Categories: Government Services, Health & Ambulance, Ward Offices, Information & Inquiry
 - Bhumlu Rural Municipality current staff directory | Official Municipality | 5 contact(s) | https://bhumlumun.gov.np/current
   Categories: Government Services
 - Bhumlu Rural Municipality annual policy and programme 2082/83 | Official Municipality | 14 contact(s) | https://bhumlumun.gov.np/sites/bhumlumun.gov.np/files/pdf24_merged.pdf
@@ -456,6 +488,8 @@ Complete record-level source register: contact_sources.csv (one row per director
 - Bigu Rural Municipality official publication | Official Municipality | 1 contact(s) | https://bigumun.gov.np/sites/bigumun.gov.np/files/IMG_20250325_0006_NEW.pdf
   Categories: Women & Children
 - Bigu Rural Municipality official website | Official Municipality | 2 contact(s) | https://bigumun.gov.np/staff
+  Categories: Government Services
+- Bijayanagar Rural Municipality, Kapilvastu official website | Official Municipality | 23 contact(s) | https://bijaynagarmun.gov.np/staff?page=1
   Categories: Government Services
 - Social Health Security Section information system | Official Government | 22 contact(s) | https://bipanna.dohs.gov.np/
   Categories: Hospitals
@@ -573,6 +607,36 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry, Health & Ambulance, Ward Offices
 - Business Chautari public directory | Public Directory | 1 contact(s) | https://businesschautari.com/thapahotel/
   Categories: Travel & Tourism
+- Butwal Hospital official website | Official Hospital | 2 contact(s) | https://butwalhospital.com/Contact?slug=butwal-hospital-contact
+  Categories: Hospitals, Health & Ambulance
+- Official public service website | Official Municipality | 1 contact(s) | https://butwalmun.gov.np/
+  Categories: Information & Inquiry
+- Butwal Sub-Metropolitan City official website | Official Municipality | 1 contact(s) | https://butwalmun.gov.np/content/%E0%A4%A6%E0%A4%AE%E0%A4%95%E0%A4%B2
+  Categories: Emergency Services
+- Butwal Sub-Metropolitan City official staff profile | Official Municipality | 1 contact(s) | https://butwalmun.gov.np/content/%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%A6%E0%A5%81%E0%A4%B0-%E0%A4%95%E0%A4%B5%E0%A4%B0-%E0%A4%AE%E0%A4%97%E0%A4%B0
+  Categories: Government Services
+- Butwal Sub-Metropolitan City official website | Official Municipality | 1 contact(s) | https://butwalmun.gov.np/content/%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B0%E0%A5%80
+  Categories: Police & Security
+- Butwal Sub-Metropolitan City official ward page | Official Municipality | 3 contact(s) | https://butwalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8-%E0%A5%A7
+  Categories: Ward Offices
+- Butwal Sub-Metropolitan City official ward page | Official Municipality | 3 contact(s) | https://butwalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8-%E0%A5%A7%E0%A5%A6
+  Categories: Ward Offices
+- Butwal Sub-Metropolitan City official ward page | Official Municipality | 3 contact(s) | https://butwalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8-%E0%A5%A7%E0%A5%AA
+  Categories: Ward Offices
+- Butwal Sub-Metropolitan City official ward page | Official Municipality | 3 contact(s) | https://butwalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8-%E0%A5%A7%E0%A5%AE
+  Categories: Ward Offices
+- Butwal Sub-Metropolitan City official ward page | Official Municipality | 3 contact(s) | https://butwalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8-%E0%A5%A7%E0%A5%AF
+  Categories: Ward Offices
+- Butwal Sub-Metropolitan City official ward page | Official Municipality | 3 contact(s) | https://butwalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8-%E0%A5%A8
+  Categories: Ward Offices
+- Butwal Sub-Metropolitan City official ward page | Official Municipality | 3 contact(s) | https://butwalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8-%E0%A5%AA
+  Categories: Ward Offices
+- Butwal Sub-Metropolitan City official ward page | Official Municipality | 3 contact(s) | https://butwalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8-%E0%A5%AB
+  Categories: Ward Offices
+- Butwal Sub-Metropolitan City official ward page | Official Municipality | 3 contact(s) | https://butwalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8-%E0%A5%AD
+  Categories: Ward Offices
+- Official public service website | Official Municipality | 1 contact(s) | https://butwalmun.gov.np/content/contact
+  Categories: Government Services
 - Civil Aviation Authority of Nepal airport profile | Official Government | 1 contact(s) | https://caanepal.gov.np/storage/app/media/updated%20airport%20profile%20oct%201%202020/LAMIDANDA%20AIRPORT.pdf
   Categories: Travel & Tourism
 - Community Development Organization-Nepal | Official NGO | 1 contact(s) | https://cdo-nepal.org.np/index.html
@@ -719,6 +783,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Information & Inquiry, Government Services
 - Khaptad Chhededaha Rural Municipality Official Website | Official Municipality | 4 contact(s) | https://chhededahamun.gov.np/staff
   Categories: Government Services, Health & Ambulance
+- Official Municipality | No | 1 contact(s) | Chichila Rural Municipality official homepage
+  Categories: Government Services
+- Chichila Rural Municipality official homepage | Official Municipality | 2 contact(s) | https://chichilamun.gov.np/
+  Categories: Health & Ambulance
 - Child Rights in Nepal official directory | Official Government | 1 contact(s) | https://childrights.gov.np/site/catalog/office-directory
   Categories: Women & Children
 - National Child Rights Council Child Rights in Nepal directory | Official Government | 2 contact(s) | https://childrights.gov.np/site/show/104-number
@@ -739,10 +807,14 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Complaints
 - CIAA Contact / Online Complaint Page | Official Government | 1 contact(s) | https://ciaa.gov.np/contact
   Categories: Government Complaints
+- Commission for the Investigation of Abuse of Authority official website | Official Government | 1 contact(s) | https://ciaa.gov.np/index.php/page/46
+  Categories: Government Complaints
 - Commission for the Investigation of Abuse of Authority online complaint portal | Official Government | 4 contact(s) | https://ciaa.gov.np/online-complaint
   Categories: Government Complaints
 - Commission for the Investigation of Abuse of Authority | Official Government | 2 contact(s) | https://ciaa.gov.np/page/44
   Categories: Government Complaints, Information & Inquiry
+- City Hospital official contact page | Official Hospital | 1 contact(s) | https://cityhospital.com.np/contact-us/
+  Categories: Hospitals
 - ClinicalTrials.gov study location record | Official Organisation | 1 contact(s) | https://clinicaltrials.gov/study/NCT07582380
   Categories: Hospitals
 - Crest Micro Life Insurance - Branches | Official Organisation | 1 contact(s) | https://cmli.com.np/branches/
@@ -756,6 +828,14 @@ Complete record-level source register: contact_sources.csv (one row per director
 - Province Cooperative Registrar Office, Bagmati | Official Government | 1 contact(s) | https://cor.bagamati.gov.np/our-team/
   Categories: Other
 - NEDS Nepal COVID Help public directory | Public Directory | 1 contact(s) | https://covid-help.nedsnepal.org.np/
+  Categories: Other
+- CTEVT short-term training providers list through 2078.05.13 | Official Government | 10 contact(s) | https://ctevt.org.np/public/uploads/docs/2021-08-29_Short%20Term%20Training%20providers%20list%20Updated%20till%202078.05.13.pdf
+  Categories: Other
+- CTEVT technical and vocational education profile 2073 | Official Government | 5 contact(s) | https://ctevt.org.np/public/uploads/kcfinder/files/Jhalak%202073_%203_07%20Revised%20%26%20Updated%20%281%29.pdf
+  Categories: Other
+- CTEVT short-term training institutions list through Ashar 2082 | Official Government | 1 contact(s) | https://ctevt.org.np/public/uploads/kcfinder/files/Short%20Course%20%20Data%20Bank.pdf
+  Categories: Other
+- CTEVT Training Information Portal | Official Government | 1 contact(s) | https://ctevt.org.np/trainingportal/public/program/324/P416
   Categories: Other
 - Ayurveda and Alternative Hospital, Makwanpur | Official Government | 1 contact(s) | https://dahcmakawanpur.bagamati.gov.np/institutes/Hatiya-Ayurved-Aushadhalaya--17
   Categories: Health & Ambulance
@@ -779,6 +859,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Hospitals, Disaster & Rescue
 - District Administration Office Ilam public directory | Official Government | 26 contact(s) | https://daoilam.moha.gov.np/en/members
   Categories: Government Services, Government Complaints, Information & Inquiry
+- Krishnanagar Municipality / District Administration Office, Kapilvastu official website | Official Government | 1 contact(s) | https://daokapilvastu.moha.gov.np/page/kapa-lvasa-ta-ja-l-l-ka-ka-ra-ya-lya-pa-rama-khahara-ka-na-ma-val-2
+  Categories: Hospitals
 - DAO Kavrepalanchok contact page | Official Government | 4 contact(s) | https://daokavrepalanchok.moha.gov.np/contact
   Categories: Disaster & Rescue
 - District Administration Office Makwanpur official website | Official Government | 1 contact(s) | https://daomakawanpur.moha.gov.np/en/
@@ -825,6 +907,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - District Administration Office Panchthar public directory | Official Government | 30 contact(s) | https://daopanchthar.moha.gov.np/en/members
   Categories: Government Complaints, Information & Inquiry, Government Services
+- District Administration Office, Rupandehi official Mayadevi page | Official Government | 1 contact(s) | https://daorupandehi.moha.gov.np/en/post/mayadevi-rural-municipality
+  Categories: Government Services
 - DAO Sindhupalchok contact page | Official Government | 8 contact(s) | https://daosindhulpalchok.moha.gov.np/en/contact
   Categories: Police & Security
 - Ministry of Home Affairs district administration site | Official Government | 8 contact(s) | https://daosolu.moha.gov.np/en
@@ -859,6 +943,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Electricity & Utilities
 - NEA Hetauda Distribution Center | Official Utility | 5 contact(s) | https://dcsd.nea.org.np/en/officelist/288
   Categories: Electricity & Utilities
+- Deerwalk Bharatpur School official website | Official Organisation | 1 contact(s) | https://deerwalk.edu.np/bharatpur-school
+  Categories: Other
 - Deumai Municipality | Official Municipality | 1 contact(s) | https://deumaimun.gov.np/en/content/वडा-नः-५
   Categories: Ward Offices
 - Deumai Municipality | Official Municipality | 1 contact(s) | https://deumaimun.gov.np/en/content/वडा-नः-७
@@ -877,6 +963,14 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Deumai Municipality | Official Municipality | 10 contact(s) | https://deumaimun.gov.np/en/staff
   Categories: Government Services, Health & Ambulance, Information & Inquiry
+- Devdaha Medical College | Official Hospital | 1 contact(s) | https://devdahamedicalcollege.edu.np/
+  Categories: Hospitals
+- Devdaha Municipality official directory | Official Municipality | 8 contact(s) | https://devdahamun.gov.np/en/elected-officials
+  Categories: Government Services, Ward Offices
+- Devdaha Municipality official directory | Official Municipality | 106 contact(s) | https://devdahamun.gov.np/en/staff
+  Categories: Government Services, Information & Inquiry, Disaster & Rescue, Health & Ambulance
+- Devdaha Municipality education staff directory | Official Municipality | 28 contact(s) | https://devdahamun.gov.np/en/staff-edu
+  Categories: Other
 - Dhakari Rural Municipality Official Website | Official Municipality | 32 contact(s) | https://dhakarimun.gov.np/staff?page=1
   Categories: Government Services, Ward Offices, Health & Ambulance, Electricity & Utilities
 - Dhanpalthan Rural Municipality Ward Member profile | Official Municipality | 1 contact(s) | https://dhanapalthanmun.gov.np/content/%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%81-%E0%A4%B0%E0%A4%BE%E0%A4%AE-%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AC%E0%A4%82%E0%A4%B6%E0%A5%80
@@ -895,6 +989,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry
 - Dharmadevi Municipality official website | Official Municipality | 2 contact(s) | https://dharmadevimun.gov.np/officials
   Categories: Government Services
+- Dharmadevi Municipality | Official Municipality | 24 contact(s) | https://dharmadevimun.gov.np/staff
+  Categories: Government Services, Health & Ambulance, Ward Offices, Women & Children
 - Dharmadevi Municipality official website | Official Municipality | 2 contact(s) | https://dharmadevimun.gov.np/staff?page=1
   Categories: Health & Ambulance
 - Department of Hydrology and Meteorology official website | Official Government | 2 contact(s) | https://dhm.gov.np/?locale=en
@@ -969,7 +1065,7 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Department of Commerce, Supplies and Consumer Protection official contact page | Official Government | 1 contact(s) | https://doc.gov.np/contact-us/
   Categories: Government Complaints
-- School Details by Local Level and District, 2076 | Official Government | 6662 contact(s) | https://doe.gov.np/assets/uploads/files/094e44803cff92f49923bea8ff25b2bd.pdf
+- School Details by Local Level and District, 2076 | Official Government | 6454 contact(s) | https://doe.gov.np/assets/uploads/files/094e44803cff92f49923bea8ff25b2bd.pdf
   Categories: Other
 - Dogdakedar Rural Municipality Official Website | Official Municipality | 4 contact(s) | https://dogdakedarmun.gov.np/
   Categories: Government Services, Information & Inquiry
@@ -1061,6 +1157,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Other
 - Employees Provident Fund | Official Government | 1 contact(s) | https://epf.org.np/branchservice-center/hetauda-office/
   Categories: Information & Inquiry
+- Official public service website | Official Municipality | 4 contact(s) | https://eservice.butwalmun.gov.np/
+  Categories: Information & Inquiry, Government Services
 - ETSC Nepal | Official NGO | 1 contact(s) | https://etscn.org.np/contact/
   Categories: Women & Children
 - Everest Bank Limited official branch page | Official Organisation | 1 contact(s) | https://everestbankltd.com/branches/pathari-branch/
@@ -1077,6 +1175,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Other
 - Kathmandu Metropolitan City Free Health Service Portal | Official Municipality | 55 contact(s) | https://freehealth.kathmandu.gov.np/
   Categories: Hospitals
+- Gaidahawa Rural Municipality official staff directory | Official Municipality | 30 contact(s) | https://gaidahawamun.gov.np/staff
+  Categories: Information & Inquiry, Government Services, Health & Ambulance, Women & Children
+- Gaidahawa Rural Municipality official staff directory | Official Municipality | 14 contact(s) | https://gaidahawamun.gov.np/staff?page=1
+  Categories: Government Services, Health & Ambulance
 - Gajuri Rural Municipality official website | Official Municipality | 3 contact(s) | https://gajurimun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Gajuri Rural Municipality Educational Institution Details 2082 | Official Municipality | 49 contact(s) | https://gajurimun.gov.np/sites/gajurimun.gov.np/files/%E0%A4%AA%E0%A5%8D%E0%A4%B0.%E0%A4%85%20%E0%A4%B0%20%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A4%95%E0%A5%8B%20%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%20-%20Copy.pdf
@@ -1147,6 +1249,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Bagmati Province Assembly GIS Portal | Official Government | 1 contact(s) | https://gis.bagamati.gov.np/notice/parliamentary-party
   Categories: Information & Inquiry
+- Government health-facility contact register for Sankhuwasabha | Official Government | 12 contact(s) | https://giwmscdnone.gov.np/media/pdf_upload/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF_%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE_%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95_%E0%A4%A8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0_afbitz9.pdf
+  Categories: Hospitals, Health & Ambulance
 - Government of Nepal Anti-Trafficking Report | Official Government | 1 contact(s) | https://giwmscdnone.gov.np/media/pdf_upload/1ZDLclMTRPTQbvAKSeCk0Ej0L9ivLQERM6mTWYdX-1625546966_yj9zelc.pdf
   Categories: Women & Children
 - Bagmati Province Health Emergency and Disaster Contingency Plan | Official Government | 1 contact(s) | https://giwmscdnone.gov.np/media/pdf_upload/Contingency%20Plan%20of%20Bagmati%20Province_final_ym8m3n0.pdf
@@ -1229,6 +1333,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices, Government Services, Information & Inquiry, Women & Children
 - Gosaikunda Rural Municipality staff directory | Official Municipality | 34 contact(s) | https://gosaikundamun.gov.np/staff
   Categories: Government Services, Ward Offices, Information & Inquiry
+- Greenland Public School official website | Official Organisation | 1 contact(s) | https://gpschitwan.edu.np/contact-us/
+  Categories: Other
 - Gramthan Rural Municipality official public directory | Official Municipality | 32 contact(s) | https://gramthanmun.gov.np/officials
   Categories: Government Services, Ward Offices
 - Gramthan Rural Municipality official public directory | Official Municipality | 15 contact(s) | https://gramthanmun.gov.np/staff
@@ -1415,6 +1521,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Travel & Tourism
 - Hotel Smarak official website | Official Organisation | 1 contact(s) | https://hotelsmarak.com/
   Categories: Travel & Tourism
+- Health Training Center, Lumbini official website | Official Government | 1 contact(s) | https://htc.lumbini.gov.np/en/message
+  Categories: Government Services
+- Holy Vision Public Secondary School official website | Official Organisation | 1 contact(s) | https://hvpss.edu.np/
+  Categories: Other
 - Hetauda Water Supply Management Board | Official Utility | 3 contact(s) | https://hwsmboard.org.np/contact-us/
   Categories: Electricity & Utilities
 - Hetauda Water Supply Management Board Staff Details | Official Utility | 10 contact(s) | https://hwsmboard.org.np/staff-details/
@@ -1687,6 +1797,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry
 - Kamalbazar Municipality current staff directory | Official Municipality | 27 contact(s) | https://kamalbazarmun.gov.np/ne/staff1
   Categories: Health & Ambulance, Government Services, Information & Inquiry
+- Kanchan Rural Municipality official staff directory | Official Municipality | 25 contact(s) | https://kanchanmun.gov.np/staff
+  Categories: Health & Ambulance, Government Services, Information & Inquiry, Ward Offices
+- Kanchan Rural Municipality official staff directory | Official Municipality | 15 contact(s) | https://kanchanmun.gov.np/staff?page=1
+  Categories: Government Services, Women & Children, Ward Offices, Electricity & Utilities
 - Kanepokhari Rural Municipality official website | Official Municipality | 3 contact(s) | https://kanepokharimun.gov.np/
   Categories: Government Services
 - Kanepokhari Rural Municipality official ward page | Official Municipality | 2 contact(s) | https://kanepokharimun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A8-%E0%A4%95%E0%A5%87%E0%A4%B0%E0%A5%8C%E0%A4%A8
@@ -1705,6 +1819,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Kanepokhari Rural Municipality staff directory | Official Municipality | 35 contact(s) | https://kanepokharimun.gov.np/staff
   Categories: Government Services, Information & Inquiry, Health & Ambulance, Women & Children
+- Kapilvastu Municipality official website | Official Municipality | 4 contact(s) | https://kapilvastumun.gov.np/ne/elected-officials
+  Categories: Government Services, Ward Offices, Women & Children
+- Kapilvastu Municipality official website | Official Municipality | 37 contact(s) | https://kapilvastumun.gov.np/ne/staffs
+  Categories: Government Services, Information & Inquiry
 - Karuna Hospital Official Website | Official Hospital | 2 contact(s) | https://karunahospital.com.np/
   Categories: Hospitals, Emergency Services
 - Katahari Rural Municipality official emergency directory | Official Municipality | 13 contact(s) | https://kataharimun.gov.np/
@@ -1845,8 +1963,14 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry, Health & Ambulance, Ward Offices
 - Khiji Demba Rural Municipality official website | Official Municipality | 11 contact(s) | https://khijidembamun.gov.np/
   Categories: Government Services, Health & Ambulance, Information & Inquiry
+- Khumbu Pasang Lhamu Rural Municipality | Official Municipality | 28 contact(s) | https://khumbupasanglhamum.gov.np/staff
+  Categories: Information & Inquiry, Government Services, Disaster & Rescue, Health & Ambulance
 - Khumbu Pasang Lhamu Rural Municipality official website | Official Municipality | 3 contact(s) | https://khumbupasanglhamumun.gov.np/
   Categories: Government Services, Information & Inquiry
+- Khumbu Pasang Lhamu Rural Municipality | Official Municipality | 1 contact(s) | https://khumbupasanglhamumun.gov.np/content/police-station-lukla
+  Categories: Police & Security
+- Khumbu Pasang Lhamu Rural Municipality | Official Municipality | 7 contact(s) | https://khumbupasanglhamumun.gov.np/officials
+  Categories: Government Services, Ward Offices, Information & Inquiry
 - KIOCH Official Contact Page | Official Organisation | 1 contact(s) | https://kioch.org.np/contact-us/
   Categories: Hospitals
 - Kirtipur Municipality | Official Municipality | 3 contact(s) | https://kirtipurmun.gov.np/about/officials?lang=en&type=ward&ward_no=20
@@ -1951,6 +2075,18 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Electricity & Utilities
 - Koshi Hospital official website | Official Hospital | 2 contact(s) | https://koshihospital.gov.np/
   Categories: Hospitals
+- Kotahimai Rural Municipality official website | Official Municipality | 1 contact(s) | https://kotahimaimun.gov.np/contact
+  Categories: Government Services
+- Kotahimai Rural Municipality official website | Official Municipality | 9 contact(s) | https://kotahimaimun.gov.np/officials
+  Categories: Government Services, Ward Offices
+- Kotahimai Rural Municipality FY 2080/81 annual plan | Official Municipality | 9 contact(s) | https://kotahimaimun.gov.np/sites/kotahimaimun.gov.np/files/Kotahimai%20ga.pdf
+  Categories: Health & Ambulance
+- Kotahimai Rural Municipality official staff directory | Official Municipality | 6 contact(s) | https://kotahimaimun.gov.np/staff
+  Categories: Government Services, Health & Ambulance
+- Kotahimai Rural Municipality official staff directory | Official Municipality | 15 contact(s) | https://kotahimaimun.gov.np/staff?page=1
+  Categories: Government Services, Ward Offices
+- Krishnanagar Municipality / District Administration Office, Kapilvastu official website | Official Municipality | 14 contact(s) | https://krishnanagarmun.gov.np/en/elected-officials
+  Categories: Government Services, Ward Offices
 - KTM Consulting Group | Official Organisation | 1 contact(s) | https://ktmcg.com.np/contact/
   Categories: Other
 - Kathmandu Valley Police Office | Official Police | 2 contact(s) | https://ktmvalley.nepalpolice.gov.np/structure/police-range-kathmandu/
@@ -1981,6 +2117,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Complaints
 - Lalitpur Metropolitan City Elected Representatives Directory | Official Municipality | 29 contact(s) | https://lalitpurmun.gov.np/node/82
   Categories: Ward Offices
+- Lumbini Eye Institute and Research Center | Official Hospital | 1 contact(s) | https://lei.org.np/primery-eye-center/sainamaina-eye-center/
+  Categories: Hospitals
 - Lekam Rural Municipality Official Website | Official Municipality | 5 contact(s) | https://lekammun.gov.np/officials
   Categories: Ward Offices
 - Lekam Rural Municipality Official Website | Official Municipality | 5 contact(s) | https://lekammun.gov.np/staff
@@ -2005,6 +2143,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Letang Municipality official ward page | Official Municipality | 1 contact(s) | https://letangmun.gov.np/?q=ne%2Fnode%2F300
   Categories: Ward Offices
+- Little Flower School official website | Official Organisation | 1 contact(s) | https://lfschitwan.edu.np/
+  Categories: Other
 - Likhu Rural Municipality homepage contact block | Official Municipality | 2 contact(s) | https://likhumunnuwakot.gov.np/
   Categories: Government Complaints, Information & Inquiry
 - Likhu Rural Municipality Ward 1 official page | Official Municipality | 1 contact(s) | https://likhumunnuwakot.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A7
@@ -2013,6 +2153,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Likhu Rural Municipality staff directory | Official Municipality | 36 contact(s) | https://likhumunnuwakot.gov.np/staff
   Categories: Government Services, Ward Offices, Women & Children, Health & Ambulance
+- Likhupike Rural Municipality | Official Municipality | 9 contact(s) | https://likhupikemun.gov.np/contact
+  Categories: Ward Offices, Police & Security, Health & Ambulance
 - Likhu Tamakoshi municipality homepage contact block | Official Municipality | 8 contact(s) | https://likhutamakoshimun.gov.np/
   Categories: Government Services, Government Complaints, Information & Inquiry
 - Likhu Tamakoshi Ward 2 page and officials directory | Official Municipality | 1 contact(s) | https://likhutamakoshimun.gov.np/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A8-%E0%A4%B8%E0%A5%88%E0%A4%AA%E0%A5%81
@@ -2041,6 +2183,22 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Lisankhu Pakhar Rural Municipality official ward page | Official Municipality | 3 contact(s) | https://lisankhupakharmun.gov.np/content/%E0%A5%AC-%E0%A4%A8%E0%A4%82-%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF-%E0%A4%AA%E0%A5%87%E0%A4%9F%E0%A5%8D%E0%A4%95%E0%A5%81
   Categories: Ward Offices, Health & Ambulance
+- Nepal Electricity Authority official directory | Official Utility | 1 contact(s) | https://lumbini.nea.org.np/en/dcs-contacts/379
+  Categories: Electricity & Utilities
+- Lumbini Province Nepal Police official contact directory | Official Police | 3 contact(s) | https://lumbini.nepalpolice.gov.np/about-us/contacts/
+  Categories: Police & Security
+- Lumbini Sanskritik Municipality official website | Official Municipality | 2 contact(s) | https://lumbinisanskritikmun.gov.np/
+  Categories: Government Services
+- Lumbini Sanskritik Municipality official website | Official Municipality | 1 contact(s) | https://lumbinisanskritikmun.gov.np/contact-us/
+  Categories: Disaster & Rescue
+- Lumbini Sanskritik Municipality official website | Official Municipality | 1 contact(s) | https://lumbinisanskritikmun.gov.np/en/content/%E0%A4%88%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%A8-%E0%A4%96%E0%A4%BE%E0%A4%A8
+  Categories: Government Services
+- Lumbini Sanskritik Municipality official staff page | Official Municipality | 1 contact(s) | https://lumbinisanskritikmun.gov.np/en/content/%E0%A4%A1%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%81-%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A4%A8
+  Categories: Government Services
+- Lumbini Sanskritik Municipality official website | Official Municipality | 1 contact(s) | https://lumbinisanskritikmun.gov.np/en/content/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6-%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%B5
+  Categories: Government Services
+- Lumbini Sanskritik Municipality official website | Official Municipality | 1 contact(s) | https://lumbinisanskritikmun.gov.np/en/node/2
+  Categories: Government Services
 - NEA Okhaldhunga No Light official website | Official Utility | 2 contact(s) | https://madhesh.nea.org.np/en/no-light-numbers/view/287
   Categories: Electricity & Utilities
 - Madhyapur Hospital | Official Hospital | 1 contact(s) | https://madhyapurhospital.com.np/
@@ -2115,6 +2273,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Police & Security
 - Mahakali Municipality Official Website | Official Municipality | 39 contact(s) | https://mahakalimun.gov.np/staff
   Categories: Government Services, Health & Ambulance
+- Mahakulung Rural Municipality | Official Municipality | 21 contact(s) | https://mahakulungmun.gov.np/staff
+  Categories: Government Services, Information & Inquiry, Ward Offices, Electricity & Utilities
 - Mahalaxmi Municipality Homepage | Official Municipality | 7 contact(s) | https://mahalaxmimun.gov.np/en
   Categories: Government Services, Information & Inquiry, Emergency Services, Health & Ambulance
 - Mahalaxmi Municipality Contact Page | Official Municipality | 12 contact(s) | https://mahalaxmimun.gov.np/en/node/2
@@ -2183,6 +2343,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Makalu Everest Hospital official website | Official Hospital | 1 contact(s) | https://makalueveresthospital.com.np/
   Categories: Health & Ambulance
+- Makalu Rural Municipality elected representatives directory | Official Municipality | 32 contact(s) | https://makalumun.gov.np/officials
+  Categories: Government Services, Ward Offices
 - Makawanpurgadhi Rural Municipality COVID-19 emergency notice | Official Municipality | 3 contact(s) | https://makawanpurgadhimun.gov.np/content/%E0%A4%95%E0%A5%8B%E0%A4%AD%E0%A4%BF%E0%A4%A1-%E0%A5%A7%E0%A5%AF-%E0%A4%86%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%95-%E0%A4%85%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%95%E0%A5%8B-%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%BF-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%A8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0-%E0%A5%A4
   Categories: Health & Ambulance
 - Makawanpurgadhi Rural Municipality | Official Municipality | 1 contact(s) | https://makawanpurgadhimun.gov.np/content/%E0%A4%AE%E0%A4%95%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%97%E0%A4%A2%E0%A5%80-%E0%A4%97%E0%A4%BE%E0%A4%89%E0%A4%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A5%A7-%E0%A4%A8%E0%A4%82-%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF-%E0%A4%86%E0%A4%AA%E0%A4%9F%E0%A4%BE%E0%A4%B0
@@ -2319,8 +2481,24 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Mapya Dudhkoshi Rural Municipality official website | Official Municipality | 15 contact(s) | https://mapyadudhkoshimun.gov.np/officials
   Categories: Government Services, Ward Offices
-- Mapya Dudhkoshi Rural Municipality official website | Official Municipality | 11 contact(s) | https://mapyadudhkoshimun.gov.np/staff
-  Categories: Government Services, Women & Children, Other
+- Mapya Dudhkoshi Rural Municipality official website | Official Municipality | 33 contact(s) | https://mapyadudhkoshimun.gov.np/staff
+  Categories: Government Services, Women & Children, Other, Information & Inquiry
+- Marchawari Rural Municipality official website | Official Municipality | 1 contact(s) | https://marchawarimun.gov.np/
+  Categories: Government Services
+- Marchawari Rural Municipality official website | Official Municipality | 1 contact(s) | https://marchawarimun.gov.np/content/%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A4%AE%E0%A4%9D%E0%A4%97%E0%A4%BE%E0%A4%B5%E0%A4%BE
+  Categories: Police & Security
+- Marchawari Rural Municipality official website | Official Municipality | 1 contact(s) | https://marchawarimun.gov.np/content/%E0%A4%93%E0%A4%AE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6-%E0%A4%9A%E0%A5%8C%E0%A4%A7%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A5%81%E0%A5%8D%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%80
+  Categories: Ward Offices
+- Marchawari Rural Municipality official website | Official Municipality | 1 contact(s) | https://marchawarimun.gov.np/content/%E0%A4%97%E0%A4%A8%E0%A5%87%E0%A4%B6-%E0%A4%95%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%80
+  Categories: Ward Offices
+- Marchawari Rural Municipality official website | Official Municipality | 1 contact(s) | https://marchawarimun.gov.np/content/%E0%A4%AE%E0%A5%81%E0%A4%95%E0%A5%87%E0%A4%B6-%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%B5-0
+  Categories: Ward Offices
+- Marchawari Rural Municipality current staff page | Official Municipality | 1 contact(s) | https://marchawarimun.gov.np/current
+  Categories: Health & Ambulance
+- Marchawari Rural Municipality elected officials directory | Official Municipality | 14 contact(s) | https://marchawarimun.gov.np/officials
+  Categories: Government Services, Ward Offices
+- Marchawari Rural Municipality official website | Official Municipality | 27 contact(s) | https://marchawarimun.gov.np/staff
+  Categories: Government Services, Health & Ambulance, Women & Children
 - Marma Rural Municipality Official Website | Official Municipality | 10 contact(s) | https://marmamun.gov.np/officials
   Categories: Ward Offices
 - Marma Rural Municipality Staff Directory | Official Municipality | 32 contact(s) | https://marmamun.gov.np/staff
@@ -2333,6 +2511,30 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry
 - Motherland Nepal, Makawanpur | Official Organisation | 1 contact(s) | https://matribhuminepal.org.np/
   Categories: Other
+- Mayadevi Rural Municipality, Kapilvastu official website | Official Municipality | 8 contact(s) | https://mayadevimunkapilvastu.gov.np/
+  Categories: Ward Offices
+- Mayadevi Rural Municipality, Kapilvastu official website | Official Municipality | 2 contact(s) | https://mayadevimunkapilvastu.gov.np/officials
+  Categories: Government Services
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/content/%E0%A4%95%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A4
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/content/%E0%A4%95%E0%A5%81%E0%A4%B2-%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%A6%E0%A5%81%E0%A4%B0-%E0%A4%96%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/content/%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%AE-%E0%A4%AA%E0%A5%8C%E0%A4%A1%E0%A5%87%E0%A4%B2
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/content/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B5%E0%A4%B0%E0%A4%A3-%E0%A4%97%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BE
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/content/%E0%A4%B0%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%A6%E0%A5%81%E0%A4%B0-%E0%A4%B0%E0%A5%8B%E0%A4%95%E0%A4%BE%E0%A4%B9%E0%A4%BE
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/content/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%97%E0%A5%8B%E0%A4%88%E0%A4%A4
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/content/%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%8B%E0%A4%A6-%E0%A4%9A%E0%A5%8C%E0%A4%A7%E0%A4%B0%E0%A5%80
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/content/%E0%A4%B6%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%BE-%E0%A4%AA%E0%A5%8B%E0%A4%96%E0%A5%87%E0%A4%B2
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/content/%E0%A4%B8%E0%A5%81%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A4%BE-%E0%A4%9A%E0%A5%8C%E0%A4%A7%E0%A4%B0%E0%A5%80
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://mayadevimunrupandehi.gov.np/node/1191
+  Categories: Health & Ambulance
 - Madan Bhandari Academy of Health Sciences | Official Government | 1 contact(s) | https://mbahs.edu.np/pages/contactrc/
   Categories: Health & Ambulance
 - Madan Bhandari Hospital and Trauma Center official contact page | Official Government | 1 contact(s) | https://mbhtc.koshi.gov.np/contact-us/
@@ -2501,6 +2703,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Makwanpur Sahakari Hospital Contact Page | Official Hospital | 1 contact(s) | https://mshospital.org.np/contact/
   Categories: Hospitals
+- Man Shikshya Mandir official website | Official Organisation | 1 contact(s) | https://msm.edu.np/about-us/
+  Categories: Other
 - Makawanpur Sunrise English Boarding School - Notices | Official Organisation | 1 contact(s) | https://msrebs.edu.np/notice
   Categories: Other
 - Published financial-service directory | Official Organisation | 2 contact(s) | https://muktinathbank.com.np/remit-agents
@@ -2565,8 +2769,12 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Namobuddha Municipality health institutions directory | Official Municipality | 17 contact(s) | https://namobuddhamun.gov.np/ne/swasthya-sanstha
   Categories: Health & Ambulance, Hospitals
+- Narayani Model Secondary School official website | Official Organisation | 1 contact(s) | https://narayani.edu.np/contact/
+  Categories: Other
 - Narayani Physiotherapy Clinic and Rehabilitation Center | Official Organisation | 1 contact(s) | https://narayaniphysiotherapy.com/contact/
   Categories: Health & Ambulance
+- Narayani English Public School official website | Official Organisation | 1 contact(s) | https://narayanipublic.edu.np/faculty/
+  Categories: Other
 - Nepal Association of Tour & Travel Agents member directory | Public Directory | 1 contact(s) | https://natta.org.np/member/maitri-travels-tours-branch/
   Categories: Travel & Tourism
 - Naugad Rural Municipality Official Website | Official Municipality | 16 contact(s) | https://naugadmun.gov.np/former-staff
@@ -2613,6 +2821,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Electricity & Utilities
 - Nechasalyan Rural Municipality official website | Official Municipality | 15 contact(s) | https://nechasalyanmun.gov.np/
   Categories: Government Services, Information & Inquiry, Ward Offices
+- Nechasalyan Rural Municipality | Official Municipality | 1 contact(s) | https://nechasalyanmun.gov.np/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6-%E0%A4%B0%E0%A4%BE%E0%A4%87
+  Categories: Government Services
+- Nechasalyan Rural Municipality | Official Municipality | 4 contact(s) | https://nechasalyanmun.gov.np/staff
+  Categories: Health & Ambulance, Ward Offices
 - Nechasalyan Rural Municipality official website | Official Municipality | 9 contact(s) | https://nechasalyanmun.gov.np/staff?page=1
   Categories: Health & Ambulance, Government Services
 - Neco Insurance - Branch Offices | Official Organisation | 1 contact(s) | https://neco.com.np/branch
@@ -2635,8 +2847,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Police & Security
 - Nepal Police emergency contacts | Official Police | 1 contact(s) | https://nepalpolice.gov.np/stations/emergency-contacts/
   Categories: Emergency Services
-- Nepal Police emergency contact directory | Official Police | 9 contact(s) | https://nepalpolice.gov.np/stations/emergency-contacts/police-category/
-  Categories: Police & Security
+- Nepal Police emergency contact directory | Official Police | 15 contact(s) | https://nepalpolice.gov.np/stations/emergency-contacts/police-category/
+  Categories: Police & Security, Emergency Services, Government Complaints
 - Nepal Police Human Rights Section | Official Police | 1 contact(s) | https://nepalpolice.gov.np/structure/human-right-section/
   Categories: Police & Security
 - Nepal Police Tourist Police | Official Police | 30 contact(s) | https://nepalpolice.gov.np/tourist-police/
@@ -2721,6 +2933,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Travel & Tourism
 - Established public directory listing | Public Directory | 1 contact(s) | https://np.near-place.com/sayapatri-dental-hospital-pathari-shanishchare
   Categories: Hospitals
+- Narayani Polytechnic Institute official website | Official Organisation | 1 contact(s) | https://npictevt.edu.np/
+  Categories: Other
 - Nepal Red Cross Society | Official Organisation | 2 contact(s) | https://nrcs.org/
   Categories: Disaster & Rescue
 - Nepal Red Cross Society presence directory | Official NGO | 35 contact(s) | https://nrcs.org/our-presence/
@@ -2819,6 +3033,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Other
 - Nepal Water Supply Corporation official branch contacts | Official Utility | 1 contact(s) | https://nwsc.gov.np/frontend/branch/contact
   Categories: Electricity & Utilities
+- Nepal Water Supply Corporation annual report | Official Utility | 1 contact(s) | https://nwsc.gov.np/uploads/Download/1671602837.8815_Annual%20report_NWSC_2021_.pdf
+  Categories: Electricity & Utilities
 - Okhaldhunga Community Hospital official website | Official Hospital | 1 contact(s) | https://och.org.np/
   Categories: Hospitals
 - Office of the Chief Minister and Council of Ministers official website | Official Government | 1 contact(s) | https://ocmcm.bagamati.gov.np/
@@ -2835,10 +3051,28 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Information & Inquiry
 - Agricultural Development Bank official branch directory | Official Organisation | 1 contact(s) | https://old.adbl.gov.np/branches/branch-rangeli/
   Categories: Other
+- Bijayanagar Rural Municipality, Kapilvastu official website | Official Municipality | 7 contact(s) | https://old.bijaynagarmun.gov.np/staff
+  Categories: Government Services
 - Faculty of Forestry - Contact Us | Official Organisation | 1 contact(s) | https://old.fof.edu.np/contact-us
   Categories: Other
+- Lumbini Sanskritik Municipality official website | Official Municipality | 15 contact(s) | https://old.lumbinisanskritikmun.gov.np/
+  Categories: Ward Offices, Government Services
+- Lumbini Sanskritik Municipality official ward-secretary directory | Official Municipality | 5 contact(s) | https://old.lumbinisanskritikmun.gov.np/en/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%B5%E0%A4%B9%E0%A4%B0%E0%A5%81
+  Categories: Ward Offices
+- Lumbini Sanskritik Municipality official staff directory | Official Municipality | 42 contact(s) | https://old.lumbinisanskritikmun.gov.np/en/staff
+  Categories: Health & Ambulance, Government Services, Women & Children
+- Lumbini Sanskritik Municipality official health-facility staff directory | Official Municipality | 13 contact(s) | https://old.lumbinisanskritikmun.gov.np/ne/content/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%B9%E0%A4%B0%E0%A5%81
+  Categories: Health & Ambulance
+- Omsatiya Rural Municipality official directory | Official Municipality | 9 contact(s) | https://omsatiyamun.gov.np/
+  Categories: Government Services, Ward Offices
+- Omsatiya Rural Municipality official directory | Official Municipality | 35 contact(s) | https://omsatiyamun.gov.np/staff
+  Categories: Government Services, Information & Inquiry, Health & Ambulance, Government Complaints
+- Omsatiya Rural Municipality official directory | Official Municipality | 8 contact(s) | https://omsatiyamun.gov.np/staff?page=1
+  Categories: Police & Security, Government Services
 - Avocado and Orchid Resort official website | Official Organisation | 1 contact(s) | https://orchidresort.com/project/home
   Categories: Travel & Tourism
+- Orchid School official website | Official Organisation | 1 contact(s) | https://orchidschool.edu.np/
+  Categories: Other
 - Pakhribas Municipality official directory | Official Municipality | 7 contact(s) | https://pakhribasmun.gov.np/en
   Categories: Police & Security, Emergency Services, Health & Ambulance, Government Services
 - Pakhribas Municipality official directory | Official Municipality | 73 contact(s) | https://pakhribasmun.gov.np/en/staff
@@ -2927,6 +3161,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Ward Offices
 - Panchkhapan Municipality official staff directory | Official Municipality | 15 contact(s) | https://panchkhapanmun.gov.np/staff
   Categories: Government Services, Health & Ambulance, Information & Inquiry
+- Panchkhapan Municipality | Official Municipality | 20 contact(s) | https://panchkhapanmun.gov.np/staff?field_elected_or_staff_value_1=All
+  Categories: Health & Ambulance, Information & Inquiry, Government Services, Ward Offices
 - Panchpokhari Thangpal contact page | Official Municipality | 1 contact(s) | https://panchpokharithangpalmun.gov.np/contact
   Categories: Government Services
 - Panchpokhari Thangpal ward office page | Official Municipality | 1 contact(s) | https://panchpokharithangpalmun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A7-%E0%A4%AC%E0%A4%BE%E0%A4%81%E0%A4%B8%E0%A4%96%E0%A4%B0%E0%A5%8D%E0%A4%95
@@ -2981,6 +3217,12 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry, Health & Ambulance, Electricity & Utilities
 - Pauwadungma Rural Municipality official website | Official Municipality | 5 contact(s) | https://pauwadungmamun.gov.np/
   Categories: Government Services, Information & Inquiry
+- Pauwadungma Rural Municipality | Official Municipality | 2 contact(s) | https://pauwadungmamun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A9-%E0%A4%9A%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87
+  Categories: Ward Offices
+- Pauwadungma Rural Municipality | Official Municipality | 2 contact(s) | https://pauwadungmamun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%AB-%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A5%8B%E0%A4%A6%E0%A5%81%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%BE
+  Categories: Ward Offices
+- Pauwadungma Rural Municipality | Official Municipality | 2 contact(s) | https://pauwadungmamun.gov.np/node/78
+  Categories: Ward Offices
 - Province Dairy Development Board official contact page | Official Government | 2 contact(s) | https://pddb.bagamati.gov.np/en/contacts
   Categories: Government Services
 - Pentagon Academy Hetauda | Official Organisation | 1 contact(s) | https://pentagonacademyhetauda.com/
@@ -3043,6 +3285,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Prerak Multipurpose Pvt. Ltd. | Official Organisation | 1 contact(s) | https://prerakmultipurpose.com/
   Categories: Other
+- Prerana School official website | Official Organisation | 1 contact(s) | https://prerana.edu.np/
+  Categories: Other
 - Bagmati Spatial Data Centre official user manual | Official Government | 2 contact(s) | https://psdi.bagamati.gov.np/media/media/reports/User_Manual-_BSDC-1.pdf
   Categories: Government Services
 - Pooja Daat Ghar | Official Organisation | 1 contact(s) | https://pujadaantghar.com.np/
@@ -3095,6 +3339,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Hospitals, Ward Offices
 - Ramechhap municipality Ward 5 profile | Official Municipality | 1 contact(s) | https://ramechhapmun.gov.np/en/content/ward-no5-rampur
   Categories: Ward Offices
+- Ramnagar Secondary School website | Official Organisation | 1 contact(s) | https://ramnagarschool.wordpress.com/
+  Categories: Other
 - Ramprasad Rai Rural Municipality official website | Official Municipality | 5 contact(s) | https://ramprasadraimun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Rangeli Municipality official ward profile | Official Municipality | 1 contact(s) | https://rangelimun.gov.np/en/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE%20%E0%A4%A8%E0%A4%82.%201
@@ -3187,6 +3433,12 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Official Government emergency rescue portal | Official Government | 8 contact(s) | https://rescue.opmcm.gov.np/
   Categories: Emergency Services
+- Rohini Rural Municipality official website | Official Municipality | 10 contact(s) | https://rohinimun.gov.np/
+  Categories: Government Services, Health & Ambulance, Police & Security
+- Rohini Rural Municipality official website | Official Municipality | 9 contact(s) | https://rohinimun.gov.np/officials
+  Categories: Government Services, Ward Offices
+- Rohini Rural Municipality official staff directory | Official Municipality | 35 contact(s) | https://rohinimun.gov.np/staff
+  Categories: Government Services, Information & Inquiry, Ward Offices, Women & Children
 - Roshi municipality contact page | Official Municipality | 2 contact(s) | https://roshimun.gov.np/contact
   Categories: Government Services
 - Roshi Rural Municipality archived official ward page | Official Municipality | 4 contact(s) | https://roshimun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A7-%E0%A4%96%E0%A4%B9%E0%A4%B0%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%81%E0%A4%97%E0%A5%81
@@ -3213,16 +3465,34 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Police & Security
 - Diktel Rupakot Majhuwagadhi Municipality official website | Official Municipality | 2 contact(s) | https://rupakotmajhuwagadhimun.gov.np/en/node/2
   Categories: Government Services
+- Rupandehi Model Hospital official website | Official Hospital | 1 contact(s) | https://rupandehimodalhospital.com/
+  Categories: Hospitals
 - Rural Women Service Center | Official NGO | 1 contact(s) | https://rwsc.org.np/
   Categories: Women & Children
+- Sabhapokhari Rural Municipality staff directory | Official Municipality | 1 contact(s) | Sabhapokhari Rural Municipality official homepage
+  Categories: Government Services
 - Shahidbhumi Rural Municipality official website | Official Municipality | 1 contact(s) | https://sahidbhumimun.gov.np/
   Categories: Information & Inquiry
+- Sainamaina Municipality staff directory | Official Municipality | 36 contact(s) | https://sainamainamun.gov.np/en/staff
+  Categories: Government Services, Health & Ambulance, Ward Offices, Women & Children
 - Saipal Rural Municipality official portal | Official Municipality | 5 contact(s) | https://saipaluqskmy.palikaadmin.gov.np/
   Categories: Ward Offices
 - Sakela Rural Municipality official website | Official Municipality | 20 contact(s) | https://sakelamun.gov.np/staff
   Categories: Government Services, Health & Ambulance, Ward Offices, Information & Inquiry
 - Sagarmatha Lumbini Insurance - Official publication | Official Organisation | 1 contact(s) | https://salico.com.np/public/images/download/695e1c225043c.pdf
   Categories: Other
+- Sammarimai Rural Municipality official website | Official Municipality | 1 contact(s) | https://sammarimaimun.gov.np/content/%E0%A4%A7%E0%A4%BF%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%9A%E0%A5%8C%E0%A4%A7%E0%A4%B0%E0%A5%80-%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%81
+  Categories: Information & Inquiry
+- Sammarimai Rural Municipality official website | Official Municipality | 1 contact(s) | https://sammarimaimun.gov.np/content/%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%80-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6-%E0%A4%AE%E0%A4%BE%E0%A4%9D%E0%A5%80-0
+  Categories: Health & Ambulance
+- Sammarimai Rural Municipality official website | Official Municipality | 1 contact(s) | https://sammarimaimun.gov.np/content/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6-%E0%A4%AE%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B9
+  Categories: Government Services
+- Sammarimai Rural Municipality official website | Official Municipality | 1 contact(s) | https://sammarimaimun.gov.np/content/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6-%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%B5
+  Categories: Government Services
+- Sammarimai Rural Municipality official website | Official Municipality | 1 contact(s) | https://sammarimaimun.gov.np/content/%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%AE-%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE
+  Categories: Government Services
+- Sammarimai Rural Municipality official team page | Official Municipality | 15 contact(s) | https://sammarimaimun.gov.np/our-team/
+  Categories: Government Services, Information & Inquiry, Health & Ambulance
 - Sandakpur Rural Municipality | Official Municipality | 2 contact(s) | https://sandakpurmun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Sandakpur Rural Municipality | Official Municipality | 1 contact(s) | https://sandakpurmun.gov.np/staff
@@ -3241,8 +3511,16 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Other
 - Sangurigadhi Rural Municipality official website | Official Municipality | 2 contact(s) | https://sangurigadhimun.gov.np/locationmap
   Categories: Government Services, Government Complaints
+- Sangurigadhi Rural Municipality | Official Municipality | 31 contact(s) | https://sangurigadhimun.gov.np/staff
+  Categories: Government Complaints, Information & Inquiry, Government Services, Health & Ambulance
+- Shree Siddhivinayak Secondary School website | Official Organisation | 1 contact(s) | https://sanjeevrajbhandari.wixsite.com/siddhivinayak
+  Categories: Other
 - Saptakoshi Hospital official contact page | Official Hospital | 1 contact(s) | https://saptakoshiaspatal.com.np/contact/
   Categories: Health & Ambulance
+- Sabhapokhari Rural Municipality elected representatives directory | Official Municipality | 14 contact(s) | https://savapokharimun.gov.np/officials
+  Categories: Government Services, Ward Offices
+- Sabhapokhari Rural Municipality staff directory | Official Municipality | 14 contact(s) | https://savapokharimun.gov.np/staff
+  Categories: Government Services, Health & Ambulance
 - Sayal Rural Municipality Official Website | Official Municipality | 7 contact(s) | https://sayalmun.gov.np/contact
   Categories: Government Services, Information & Inquiry
 - Sayal Rural Municipality Official Website | Official Municipality | 32 contact(s) | https://sayalmun.gov.np/staff
@@ -3250,6 +3528,8 @@ Complete record-level source register: contact_sources.csv (one row per director
 - Scheer Memorial Adventist Hospital contact page | Official Hospital | 2 contact(s) | https://scheermemorial.org/contact/
   Categories: Health & Ambulance, Hospitals
 - Shree Adhunik Rastriya Secondary School | Official Organisation | 1 contact(s) | https://schooladhunik.edu.np/contact/
+  Categories: Other
+- Social Development Division Office, Rupandehi annual report 2080/81 | Official Government | 4 contact(s) | https://sddorupandehi.lumbini.gov.np/storage/assets/notice/notice_file1725174423.pdf
   Categories: Other
 - Social Development Office Hetauda Staff Directory | Official Government | 1 contact(s) | https://sdohetauda.bagamati.gov.np/our-team/
   Categories: Women & Children
@@ -3347,18 +3627,40 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Shivapuri Rural Municipality staff directory | Official Municipality | 34 contact(s) | https://shivapurimun.gov.np/staff
   Categories: Government Services, Women & Children, Information & Inquiry
+- Shivraj Municipality, Kapilvastu official website | Official Municipality | 2 contact(s) | https://shivrajmun.gov.np/en/elected-officials
+  Categories: Government Services
+- Shivraj Municipality, Kapilvastu official website | Official Municipality | 11 contact(s) | https://shivrajmun.gov.np/en/staff
+  Categories: Government Services
 - Shree Singhadevi Academy official website | Official Organisation | 1 contact(s) | https://shreesinghadeviacademy.com/
   Categories: Other
 - Shree Sita Primary School | Official Organisation | 1 contact(s) | https://shreesitaschool.edu.np/member/school-staffs
   Categories: Other
+- Suddhodhan Rural Municipality official directory | Official Municipality | 6 contact(s) | https://shuddhodhanmunrupandehi.gov.np/
+  Categories: Government Services, Government Complaints, Information & Inquiry
+- Suddhodhan Rural Municipality official directory | Official Municipality | 29 contact(s) | https://shuddhodhanmunrupandehi.gov.np/staff
+  Categories: Government Services, Information & Inquiry, Health & Ambulance
+- Suddhodhan Rural Municipality official directory | Official Municipality | 16 contact(s) | https://shuddhodhanmunrupandehi.gov.np/staff?page=1
+  Categories: Government Services, Electricity & Utilities, Ward Offices, Women & Children
 - Siddhalek Rural Municipality elected-representative directory | Official Municipality | 15 contact(s) | https://siddhalekmun.gov.np/officials
   Categories: Government Services, Ward Offices
+- Siddharthanagar Municipality official website | Official Municipality | 2 contact(s) | https://siddharthanagarmun.gov.np/en/content/contact
+  Categories: Government Services, Emergency Services
+- Siddharthanagar Municipality elected officials directory | Official Municipality | 66 contact(s) | https://siddharthanagarmun.gov.np/en/elected-officials
+  Categories: Government Services, Ward Offices
+- Siddharthanagar Municipality official website | Official Municipality | 69 contact(s) | https://siddharthanagarmun.gov.np/en/staffs
+  Categories: Government Services, Health & Ambulance, Other, Information & Inquiry
+- Siddharthanagar Municipality official website | Official Municipality | 2 contact(s) | https://siddharthanagarmun.gov.np/ne/elected-officials
+  Categories: Government Services
 - Siddhartha Premier Insurance - Annual Report 2080/81 | Official Organisation | 1 contact(s) | https://siddharthapremier.com.np/wp-content/uploads/2025/03/31st-Annual-Report-80-81.pdf
   Categories: Other
 - Sidingwa Rural Municipality official source | Official Municipality | 4 contact(s) | https://sidingbamun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Sidingwa Rural Municipality Elected Officials Directory | Official Municipality | 7 contact(s) | https://sidingbamun.gov.np/officials
   Categories: Ward Offices
+- Silichong Rural Municipality current staff directory | Official Municipality | 4 contact(s) | https://silichongmun.gov.np/current?page=1
+  Categories: Ward Offices, Government Services, Information & Inquiry
+- Silichong Rural Municipality staff directory | Official Municipality | 20 contact(s) | https://silichongmun.gov.np/staff
+  Categories: Government Services, Health & Ambulance, Information & Inquiry, Women & Children
 - Sirijangha Rural Municipality official directory | Official Municipality | 4 contact(s) | https://sirijanghamun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Sirijangha Rural Municipality ward page | Official Municipality | 1 contact(s) | https://sirijanghamun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%AD/khewang
@@ -3379,7 +3681,13 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Sirijangha Rural Municipality official directory | Official Municipality | 31 contact(s) | https://sirijanghamun.gov.np/staff
   Categories: Government Services, Health & Ambulance, Government Complaints, Information & Inquiry
+- Sirjana English School official website | Official Organisation | 1 contact(s) | https://sirjanaschool.edu.np/
+  Categories: Other
 - Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited | Official Organisation | 1 contact(s) | https://skbbl.com.np/branch
+  Categories: Other
+- Small Heart Montessori official website | Official Organisation | 1 contact(s) | https://smallheartmontessori.edu.np/contact/
+  Categories: Other
+- School of Health Science official website | Official Organisation | 1 contact(s) | https://sohs.edu.np/contact-us
   Categories: Other
 - Official Bagmati Province Government Website | Official Government | 1 contact(s) | https://soillab.bagamati.gov.np/our-team-detail/12/
   Categories: Government Services
@@ -3387,8 +3695,12 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Health & Ambulance
 - Province Sports Development Council official team directory | Official Government | 1 contact(s) | https://sports.bagamati.gov.np/our-team/
   Categories: Information & Inquiry
+- Sunrise English Secondary School official website | Official Organisation | 1 contact(s) | https://sres.edu.np/contact/
+  Categories: Other
 - Social Security Fund official contact page | Official Government | 1 contact(s) | https://ssf.gov.np/pages/contact
   Categories: Other
+- Shree Tinau International Hospital official website | Official Hospital | 1 contact(s) | https://stih.com.np/
+  Categories: Hospitals
 - Sumeru Hospital | Official Hospital | 1 contact(s) | https://sumeruhospital.org.np/
   Categories: Hospitals
 - Sunapati municipality homepage contact block | Official Municipality | 2 contact(s) | https://sunapatimun.gov.np/
@@ -3427,6 +3739,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Health & Ambulance, Women & Children, Government Services, Government Complaints
 - Sunkoshi staff directory page 2 | Official Municipality | 1 contact(s) | https://sunkoshimunsindhupalchowk.gov.np/staff?page=1
   Categories: Women & Children
+- National Examinations Board 2025 school contact list | Official Government | 14 contact(s) | https://surkhet.neb.gov.np/neb-notice-file/Notices-202508301214059778.pdf
+  Categories: Other
 - Surma Rural Municipality current staff directory | Official Municipality | 15 contact(s) | https://surmamun.gov.np/staff
   Categories: Government Services, Information & Inquiry, Health & Ambulance, Ward Offices
 - Suryagadhi Rural Municipality representatives directory | Official Municipality | 5 contact(s) | https://suryagadhimun.gov.np/officials
@@ -3585,6 +3899,12 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - Thulung Dudhkoshi Rural Municipality official website | Official Municipality | 7 contact(s) | https://thulungdudhkoshimun.gov.np/staff
   Categories: Government Services, Information & Inquiry
+- Tilottama Municipality official website | Official Municipality | 20 contact(s) | https://tilottamamun.gov.np/en/elected-officials
+  Categories: Government Services, Ward Offices
+- Tilottama Municipality official website | Official Municipality | 1 contact(s) | https://tilottamamun.gov.np/en/node/2
+  Categories: Government Services
+- Tilottama Municipality official website | Official Municipality | 25 contact(s) | https://tilottamamun.gov.np/en/staff
+  Categories: Government Services
 - Bagmati Ministry of Physical Infrastructure Development office directory | Official Government | 1 contact(s) | https://tmsobhaktapur.bagamati.gov.np/en/office-directory
   Categories: Government Services
 - Tokha Municipality Health Page | Official Municipality | 13 contact(s) | https://tokhamun.gov.np/en/content/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF
@@ -3613,6 +3933,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Police & Security
 - Nepal Traffic Police official emergency contacts | Official Police | 2 contact(s) | https://traffic.nepalpolice.gov.np/stations/emergency-contacts/
   Categories: Police & Security
+- Nepal Electricity Authority official office list | Official Utility | 1 contact(s) | https://transd.nea.org.np/en/officelist/132
+  Categories: Electricity & Utilities
 - Trishakti Securities Limited | Official Organisation | 1 contact(s) | https://trishakti.com.np/contact.php
   Categories: Other
 - Triveni Municipality Official Website | Official Municipality | 6 contact(s) | https://trivenimunbajura.gov.np/
@@ -3635,6 +3957,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Health & Ambulance, Information & Inquiry, Disaster & Rescue
 - Temke Maiyung Rural Municipality official website | Official Municipality | 1 contact(s) | https://tyamkemaiyummun.gov.np/contact
   Categories: Information & Inquiry
+- Tyamkemaiyung Rural Municipality | Official Municipality | 6 contact(s) | https://tyamkemaiyummun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E2%80%8D%E2%80%8C-%E0%A5%AB
+  Categories: Ward Offices, Women & Children, Government Services
+- Tyamkemaiyung Rural Municipality | Official Municipality | 8 contact(s) | https://tyamkemaiyummun.gov.np/staff
+  Categories: Government Services, Information & Inquiry
 - Udayapurgadhi Rural Municipality official website | Official Municipality | 4 contact(s) | https://udayapurgadhimun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A8
   Categories: Ward Offices
 - Udayapurgadhi Rural Municipality official website | Official Municipality | 3 contact(s) | https://udayapurgadhimun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%AD
@@ -3697,6 +4023,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Uttargaya Rural Municipality Current Team Directory | Official Municipality | 4 contact(s) | https://uttargayamun.gov.np/our-team/?division_filter=&page=2
   Categories: Information & Inquiry, Government Services
+- Valmiki Shikshya Sadan official website | Official Organisation | 1 contact(s) | https://valmiki.edu.np/contact
+  Categories: Other
 - Journal of Business & Social Sciences publication | Public Directory | 1 contact(s) | https://veda-app.s3.ap-south-1.amazonaws.com/assets/314/downloads/2024-12-26/Yi3t5UbSUXNDS5uT-1735184694.pdf
   Categories: Other
 - Livestock Service Office official website | Official Government | 1 contact(s) | https://vhalecmak.bagamati.gov.np/en/pages/2/70332091/
@@ -3711,6 +4039,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Health & Ambulance
 - Patan Academy of Health Sciences | Official Hospital | 1 contact(s) | https://web.pahs.edu.np/
   Categories: Hospitals
+- SOS Hermann Gmeiner School Bharatpur admission notice 2083 | Official Organisation | 1 contact(s) | https://wms.edigitalnepal.com/wms/files/ws-post-files/1778654710655_4fe34632-4795-4564-a011-9de9f9b94a1e.pdf
+  Categories: Other
 - WorldLink Frequently Asked Questions | Official Organisation | 1 contact(s) | https://worldlink.com.np/faqs/
   Categories: Information & Inquiry
 - Aamachhodingmo Rural Municipality official directory | Official Municipality | 7 contact(s) | https://www.aamachhodingmomun.gov.np/contact
@@ -3745,6 +4075,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Hospitals
 - Araniko Hospital official website | Official Hospital | 1 contact(s) | https://www.aranikohospital.org.np/
   Categories: Hospitals
+- Aroma English Secondary School official website | Official Organisation | 1 contact(s) | https://www.aromaschool.edu.np/contact-2/
+  Categories: Other
 - Arun Rural Municipality official staff directory | Official Municipality | 2 contact(s) | https://www.arunmun.gov.np/officials
   Categories: Government Services
 - Ashmita Nepal | Official NGO | 1 contact(s) | https://www.ashmitanp.org/contact
@@ -3793,10 +4125,14 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Bhojpur Municipality official website | Official Municipality | 1 contact(s) | https://www.bhojpurmun.gov.np/en/node/2
   Categories: Government Services
+- Bhojpur Municipality | Official Municipality | 4 contact(s) | https://www.bhojpurmun.gov.np/en/staff
+  Categories: Health & Ambulance, Government Services, Disaster & Rescue
 - Bhojpur Municipality official website | Official Municipality | 12 contact(s) | https://www.bhojpurmun.gov.np/sites/bhojpurmun.gov.np/files/documents/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE%E0%A4%95%E0%A5%8B%20%E0%A4%B9%E0%A4%95%20%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A5%80%20%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AF%20%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%A3%20%E0%A5%A7%20%E0%A4%97%E0%A4%A4%E0%A5%87%20%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%BF%20%E0%A5%A8%E0%A5%A6%E0%A5%AE%E0%A5%A6%20%E0%A4%86%E0%A4%B7%E0%A4%BE%E0%A4%A2%20%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B8%E0%A4%AE.pdf
   Categories: Ward Offices
 - Bhotekoshi Heli Resort and Spa official website | Official Organisation | 1 contact(s) | https://www.bhotekoshiheliresort.com/contactus
   Categories: Travel & Tourism
+- Bhotkhola Rural Municipality | Official Municipality | 1 contact(s) | https://www.bhotkholamun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A7
+  Categories: Ward Offices
 - Bhumlu municipality homepage officials block | Official Municipality | 12 contact(s) | https://www.bhumlumun.gov.np/
   Categories: Government Services, Ward Offices
 - Bhumlu municipality contact page | Official Municipality | 2 contact(s) | https://www.bhumlumun.gov.np/contact
@@ -3811,6 +4147,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Women & Children, Information & Inquiry
 - Bigu Rural Municipality official website | Official Municipality | 2 contact(s) | https://www.bigumun.gov.np/
   Categories: Government Services
+- Bijayanagar Rural Municipality, Kapilvastu official website | Official Municipality | 2 contact(s) | https://www.bijaynagarmun.gov.np/contact
+  Categories: Government Services, Health & Ambulance
+- Bijayanagar Rural Municipality, Kapilvastu official website | Official Municipality | 28 contact(s) | https://www.bijaynagarmun.gov.np/officials
+  Categories: Government Services, Ward Offices, Women & Children
 - Birat Holidays official contact page | Official Organisation | 1 contact(s) | https://www.biratholidays.com/contact
   Categories: Travel & Tourism
 - Biratnagar Metropolitan City official elected representatives directory | Official Municipality | 8 contact(s) | https://www.biratnagarmun.gov.np/en/officials-lists
@@ -3827,6 +4167,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry, Health & Ambulance, Disaster & Rescue
 - Public Procurement Monitoring Office bid document | Official Government | 1 contact(s) | https://www.bolpatra.gov.np/egp/download?alfId=9d8a81ba-2fb9-47f5-bd2b-4d532a686810&docId=74017222
   Categories: Electricity & Utilities
+- Province Health Logistic Management Center official procurement document | Official Government | 1 contact(s) | https://www.bolpatra.gov.np/egp/download?alfId=cm%3ABidding_Documentsnull%2Fcm%3AY2023%2Fcm%3AM10%40%40%40%40%408396f126-955e-4f3c-bb4a-7fba9c49624f&docId=76967342
+  Categories: Government Services
 - Government e-GP Portal | Official Government | 1 contact(s) | https://www.bolpatra.gov.np/egp/download?alfId=cm%3ABidding_Documentsnull%2Fcm%3AY2023%2Fcm%3AM11%40%40%40%40%40afad6925-2b0e-49ca-a141-3c16841ed0a1&docId=77592283
   Categories: Hospitals
 - Government of Nepal procurement document | Official Government | 1 contact(s) | https://www.bolpatra.gov.np/egp/download?alfId=cm%3ABidding_Documentsnull%2Fcm%3AY2023%2Fcm%3AM4%40%40%40%40%40faa978d8-1efb-4e4c-b4be-b14936ba9bbe&docId=75443767
@@ -3837,6 +4179,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Hospitals
 - Buddha Air official contact page | Official Organisation | 1 contact(s) | https://www.buddhaair.com/detail/contact-us
   Categories: Travel & Tourism
+- Buddhabhumi Municipality official website | Official Municipality | 25 contact(s) | https://www.buddhabhumimun.gov.np/staff
+  Categories: Government Services
 - Budhanilkantha Municipality Ward 3 Official Page | Official Municipality | 1 contact(s) | https://www.budhanilkanthamun.gov.np/en/node/257
   Categories: Ward Offices
 - Budhanilkantha Municipality | Official Municipality | 47 contact(s) | https://www.budhanilkanthamun.gov.np/en/staff
@@ -3847,6 +4191,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry, Health & Ambulance
 - Budhiganga Municipality Official Website | Official Municipality | 13 contact(s) | https://www.budhigangamunbajura.gov.np/staff?page=1
   Categories: Government Services, Women & Children, Information & Inquiry
+- Butwal Sub-Metropolitan City official website | Official Municipality | 1 contact(s) | https://www.butwalmun.gov.np/
+  Categories: Government Services
+- Butwal Sub-Metropolitan City official staff directory | Official Municipality | 56 contact(s) | https://www.butwalmun.gov.np/staffs?language=en
+  Categories: Government Services, Electricity & Utilities, Disaster & Rescue, Health & Ambulance
 - Official government website | Official Municipality | 6 contact(s) | https://www.chainpurmun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Chandragiri Hills Official Contact Page | Official Tourism | 1 contact(s) | https://www.chandragirihills.com/contact/
@@ -3899,6 +4247,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry
 - Khaptad Chhededaha Rural Municipality staff directory | Official Municipality | 16 contact(s) | https://www.chhededahamun.gov.np/staff
   Categories: Disaster & Rescue, Government Services, Ward Offices, Health & Ambulance
+- Chichila Rural Municipality elected representatives directory | Official Municipality | 12 contact(s) | https://www.chichilamun.gov.np/officials
+  Categories: Government Services, Ward Offices
+- Chichila Rural Municipality staff directory | Official Municipality | 35 contact(s) | https://www.chichilamun.gov.np/staff
+  Categories: Government Services, Information & Inquiry, Health & Ambulance, Ward Offices
 - Child Helpline Nepal official site | Official NGO | 1 contact(s) | https://www.childhelpline1098.org.np/
   Categories: Women & Children
 - Chaubise Rural Municipality official staff directory | Official Municipality | 11 contact(s) | https://www.choubisemun.gov.np/staff
@@ -3917,6 +4269,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Other
 - Collegenp vacancy notice citing Panauti Nagar Hospital contact; municipality homepage confirms hospital inauguration | Public Directory | 1 contact(s) | https://www.collegenp.com/vacancy/panauti-nagar-hospital-contract-staff-vacancy
   Categories: Hospitals
+- CTEVT short-course training providers list through 2078.05.13 | Official Government | 3 contact(s) | https://www.ctevt.org.np/public/uploads/docs/2021-08-29_Short%20course%20new%20list%20v3%20updated%202078.05.13%20to%20upload.pdf
+  Categories: Other
+- CTEVT short-course training databank, generated 2025-12-15 | Official Government | 40 contact(s) | https://www.ctevt.org.np/public/uploads/kcfinder/files/Short%20Course%20%20Data%20Bank%2012-15-2025%20com%281%29.pdf
+  Categories: Other
 - Citizens Bank official ASBA branch directory | Official Organisation | 1 contact(s) | https://www.ctznbank.com/services/asba
   Categories: Other
 - Cybo - Pharmacies in Hetauda Area Code 57 | Public Directory | 2 contact(s) | https://www.cybo.com/NP-area-code/57_hetauda/pharmacies-and-drug-stores/
@@ -3955,6 +4311,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Ward Offices, Information & Inquiry
 - Dasharathchand Municipality Official Website | Official Municipality | 10 contact(s) | https://www.dasharathchandmun.gov.np/en/node/37
   Categories: Information & Inquiry, Government Complaints, Electricity & Utilities, Government Services
+- Dawn Academy official website | Official Organisation | 1 contact(s) | https://www.dawnacademy.edu.np/
+  Categories: Other
 - Dakshinkali Municipality Homepage / Contact Page | Official Municipality | 1 contact(s) | https://www.daxinkalimun.gov.np/en
   Categories: Government Complaints
 - Dakshinkali Municipality Contact Page | Official Municipality | 1 contact(s) | https://www.daxinkalimun.gov.np/en/node/1
@@ -3973,6 +4331,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Information & Inquiry
 - Deumai Municipality | Official Municipality | 1 contact(s) | https://www.deumaimun.gov.np/en/content/वडा-नः-२
   Categories: Ward Offices
+- Devdaha Drinking Water Supply and Sanitation Organisation | Official Utility | 1 contact(s) | https://www.devdahakhanepani.org.np/
+  Categories: Electricity & Utilities
+- Devdaha Municipality elected officials directory | Official Municipality | 57 contact(s) | https://www.devdahamun.gov.np/ne/elected-officials
+  Categories: Ward Offices, Government Services
 - Official public service directory | Official Hospital | 2 contact(s) | https://www.dhadinghospital.com.np/
   Categories: Hospitals, Health & Ambulance
 - Dhakari Rural Municipality Official Website | Official Municipality | 44 contact(s) | https://www.dhakarimun.gov.np/officials
@@ -3995,7 +4357,9 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Ward Offices
 - D. & D. Associates - Contact Us | Official Organisation | 1 contact(s) | https://www.dnda.com.np/p/contact-us_7.html
   Categories: Other
-- Government of Nepal school directory, 2076 | Official Government | 76 contact(s) | https://www.doe.gov.np/assets/uploads/files/094e44803cff92f49923bea8ff25b2bd.pdf
+- Government of Nepal school directory, 2076 | Official Government | 668 contact(s) | https://www.doe.gov.np/assets/uploads/files/094e44803cff92f49923bea8ff25b2bd.pdf
+  Categories: Other
+- Department of Education EMIS portal-reported school list | Official Government | 15 contact(s) | https://www.doe.gov.np/assets/uploads/files/41f5b515bc0040b54a0cd32716058e8b.pdf
   Categories: Other
 - Dogdakedar Rural Municipality Staff Directory | Official Municipality | 19 contact(s) | https://www.dogdakedarmun.gov.np/staff
   Categories: Government Services, Health & Ambulance, Information & Inquiry, Women & Children
@@ -4007,6 +4371,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Electricity & Utilities
 - Easy Tech Travels and Tours official website | Official Organisation | 1 contact(s) | https://www.easytechtravels.com.np/pkbooking
   Categories: Travel & Tourism
+- Edmond City Hospital official website | Official Hospital | 1 contact(s) | https://www.ech.com.np/department/9
+  Categories: Hospitals
 - E-Planet Education | Official Organisation | 1 contact(s) | https://www.eplanet.edu.np/
   Categories: Other
 - Eurasia Reiyukai eye hospital page | Official Hospital | 1 contact(s) | https://www.eurasiareiyukai.org/emeh.php
@@ -4043,6 +4409,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Travel & Tourism
 - Family Planning Association of Nepal Makwanpur branch page | Official NGO | 2 contact(s) | https://www.fpan.org/makwanpur
   Categories: Health & Ambulance, Women & Children
+- Gaidahawa Rural Municipality official website | Official Municipality | 29 contact(s) | https://www.gaidahawamun.gov.np/
+  Categories: Government Services, Disaster & Rescue, Health & Ambulance, Police & Security
 - Galchhi Rural Municipality official website | Official Municipality | 3 contact(s) | https://www.galchhimun.gov.np/contact
   Categories: Information & Inquiry, Government Complaints
 - Galchhi Rural Municipality official website | Official Municipality | 2 contact(s) | https://www.galchhimun.gov.np/officials
@@ -4097,6 +4465,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Hospitals
 - Indrasarowar municipal education document | Official Municipality | 1 contact(s) | https://www.indrasarowarmun.gov.np/sites/indrasarowarmun.gov.np/files/Kali%20Devi%20Ma%20V-ledger_0.pdf
   Categories: Other
+- International School of Hotel Management Chitwan official website | Official Organisation | 1 contact(s) | https://www.ishm.edu.np/index.php?r=site%2Fcontact
+  Categories: Other
 - Jantedhunga Rural Municipality official website | Official Municipality | 1 contact(s) | https://www.jantedhungamun.gov.np/
   Categories: Government Services
 - Jantedhunga Rural Municipality official website | Official Municipality | 1 contact(s) | https://www.jantedhungamun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A8
@@ -4131,6 +4501,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Kalika Laghubitta official branch network | Official Organisation | 1 contact(s) | https://www.kalikabank.com.np/branches
   Categories: Other
+- Kanchan Rural Municipality official website | Official Municipality | 3 contact(s) | https://www.kanchanmun.gov.np/
+  Categories: Government Services, Government Complaints, Information & Inquiry
+- Kanchan Rural Municipality official website | Official Municipality | 15 contact(s) | https://www.kanchanmun.gov.np/contact
+  Categories: Information & Inquiry, Emergency Services, Health & Ambulance, Police & Security
 - Saipal Rural Municipality official portal | Official Municipality | 3 contact(s) | https://www.kandamun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Katahari Rural Municipality official directory | Official Municipality | 1 contact(s) | https://www.kataharimun.gov.np/kaijum_sekh.miya
@@ -4139,6 +4513,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Katari Municipality | Official Municipality | 2 contact(s) | https://www.katarimun.gov.np/ne/content/%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95
   Categories: Information & Inquiry
+- Kantipur Bahu-Prabidhik Shikshalaya official website | Official Organisation | 1 contact(s) | https://www.kbps.edu.np/contact-us
+  Categories: Other
 - Khairahani Municipality | Official Municipality | 1 contact(s) | https://www.khairahanimun.gov.np/ne/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82%E0%A5%A8
   Categories: Ward Offices
 - Khandadevi information officer page, staff page, and RTI quarterly PDF | Official Municipality | 1 contact(s) | https://www.khandadevimun.gov.np/content/%E0%A4%93%E0%A4%AE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%A0
@@ -4181,6 +4557,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry, Government Complaints, Health & Ambulance
 - Koshi Hospital official website | Official Government | 1 contact(s) | https://www.koshihospital.gov.np/
   Categories: Hospitals
+- Kotahimai Rural Municipality official staff directory | Official Municipality | 28 contact(s) | https://www.kotahimaimun.gov.np/staff
+  Categories: Government Services, Health & Ambulance, Information & Inquiry, Ward Offices
+- Krishnanagar Municipality / District Administration Office, Kapilvastu official website | Official Municipality | 3 contact(s) | https://www.krishnanagarmun.gov.np/en
+  Categories: Government Services, Information & Inquiry
 - Lalitpur Metropolitan City Official Site | Official Municipality | 1 contact(s) | https://www.lalitpurmun.gov.np/node?page=1&qt-quick_tab=1
   Categories: Information & Inquiry
 - Laxmi Sunrise Bank remittance payout-location directory | Official Organisation | 3 contact(s) | https://www.laxmisunrise.com/np/remittance/remittance-payout-location/
@@ -4189,6 +4569,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry, Health & Ambulance
 - Lekam Rural Municipality Official Website | Official Municipality | 2 contact(s) | https://www.lekammun.gov.np/contact
   Categories: Health & Ambulance, Information & Inquiry
+- Official public service website | Official Government | 1 contact(s) | https://www.leobutwal.gov.np/%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%9A%E0%A4%A8%E0%A4%BE/
+  Categories: Government Services
 - Letang Municipality official website | Official Municipality | 9 contact(s) | https://www.letangmun.gov.np/?q=en
   Categories: Emergency Services, Government Services, Information & Inquiry, Government Complaints
 - Letang Municipality official contact page | Official Municipality | 4 contact(s) | https://www.letangmun.gov.np/?q=ne%2Fnode%2F1
@@ -4201,6 +4583,12 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Ward Offices
 - Limchungbung Rural Municipality official website | Official Municipality | 34 contact(s) | https://www.limchungbungmun.gov.np/staff
   Categories: Government Services, Government Complaints, Health & Ambulance, Information & Inquiry
+- Lumbini Provincial Hospital official website | Official Government | 2 contact(s) | https://www.lphospital.gov.np/contact
+  Categories: Hospitals, Health & Ambulance
+- Lumbini Sanskritik Municipality official website | Official Municipality | 5 contact(s) | https://www.lumbinisanskritikmun.gov.np/en/content/%E0%A4%AE%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%AB%E0%A5%8B%E0%A4%A8-%E0%A4%A8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0%E0%A4%B9%E0%A4%B0%E0%A5%81
+  Categories: Health & Ambulance, Disaster & Rescue, Police & Security
+- Lumbini Sanskritik Municipality official website | Official Municipality | 14 contact(s) | https://www.lumbinisanskritikmun.gov.np/en/node?qt-quicktab=0
+  Categories: Government Services, Information & Inquiry, Ward Offices
 - Machhapuchchhre Bank annual report | Official Organisation | 1 contact(s) | https://www.machbank.com/assets/backend/uploads/Financial/Annual/Basel/Annual%20report/MBL%20ANNUAL%20REPORT2023.pdf
   Categories: Other
 - Madhyapur Thimi Municipality | Official Municipality | 4 contact(s) | https://www.madhyapurthimimun.gov.np/en/branch_office
@@ -4231,10 +4619,18 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Other
 - Mahankal Rural Municipality | Official Municipality | 8 contact(s) | https://www.mahankalmun.gov.np/staff
   Categories: Government Services, Health & Ambulance, Information & Inquiry
+- Maharajgunj Municipality, Kapilvastu official website | Official Municipality | 15 contact(s) | https://www.maharajgunjmun.gov.np/contact
+  Categories: Government Services, Health & Ambulance, Ward Offices
+- Maharajgunj Municipality, Kapilvastu official website | Official Municipality | 2 contact(s) | https://www.maharajgunjmun.gov.np/officials
+  Categories: Government Services
+- Maharajgunj Municipality, Kapilvastu official website | Official Municipality | 6 contact(s) | https://www.maharajgunjmun.gov.np/staff
+  Categories: Government Services, Health & Ambulance, Information & Inquiry
 - Mai Municipality | Official Municipality | 40 contact(s) | https://www.maimun.gov.np/staff
   Categories: Government Services, Information & Inquiry, Government Complaints, Ward Offices
 - Maiwakhola Rural Municipality official directory | Official Municipality | 9 contact(s) | https://www.maiwakholamun.gov.np/health
   Categories: Health & Ambulance
+- Makalu Rural Municipality staff directory | Official Municipality | 16 contact(s) | https://www.makalumun.gov.np/staff
+  Categories: Government Services, Information & Inquiry, Health & Ambulance, Ward Offices
 - Makawanpurgadhi Rural Municipality current staff directory | Official Municipality | 1 contact(s) | https://www.makawanpurgadhimun.gov.np/designation/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%81%E0%A4%96-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%95%E0%A5%80%E0%A4%AF-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A5%83%E0%A4%A4
   Categories: Government Services
 - Makawanpurgadhi Rural Municipality Health Branch permanent health-institution contact notice | Official Municipality | 9 contact(s) | https://www.makawanpurgadhimun.gov.np/sites/makawanpurgadhimun.gov.np/files/CCF02112018.pdf
@@ -4251,12 +4647,36 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Police & Security
 - Manthali municipality health facilities page | Official Municipality | 3 contact(s) | https://www.manthalimun.gov.np/en/node/350
   Categories: Hospitals
+- Marchawari Rural Municipality official website | Official Municipality | 1 contact(s) | https://www.marchawarimun.gov.np/node?page=3
+  Categories: Information & Inquiry
 - Marma Rural Municipality Staff Directory | Official Municipality | 5 contact(s) | https://www.marmamun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Masta Rural Municipality public directory | Official Municipality | 6 contact(s) | https://www.mastamun.gov.np/sites/mastamun.gov.np/files/%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%20%E0%A4%B5%E0%A4%BF%E0%A4%AA%E0%A4%A6%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%9C%E0%A4%B2%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A5%81%20%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%B6%E0%A4%BF%E0%A4%B2%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%20%E0%A5%A8%E0%A5%A6%E0%A5%AE%E0%A5%A7.pdf
   Categories: Disaster & Rescue
 - Matribhumi Laghubitta official branch directory | Official Organisation | 1 contact(s) | https://www.matribhumimf.com.np/network/our-branches/
   Categories: Other
+- Mayadevi Rural Municipality, Kapilvastu official website | Official Municipality | 24 contact(s) | https://www.mayadevimunkapilvastu.gov.np/staff
+  Categories: Government Services, Government Complaints, Information & Inquiry, Health & Ambulance
+- Mayadevi Rural Municipality, Rupandehi official website | Official Municipality | 12 contact(s) | https://www.mayadevimunrupandehi.gov.np/
+  Categories: Government Services, Ward Offices
+- Mayadevi Rural Municipality, Rupandehi official website | Official Municipality | 1 contact(s) | https://www.mayadevimunrupandehi.gov.np/contact
+  Categories: Government Services
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://www.mayadevimunrupandehi.gov.np/content/%E0%A4%85%E0%A4%A8%E0%A4%BF%E0%A4%A4%E0%A4%BE-%E0%A4%AC%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%A4
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://www.mayadevimunrupandehi.gov.np/content/%E0%A4%AC%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A4-%E0%A4%9A%E0%A5%8C%E0%A4%A7%E0%A4%B0%E0%A5%80
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://www.mayadevimunrupandehi.gov.np/content/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%B6-%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%81
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://www.mayadevimunrupandehi.gov.np/content/%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A5%80-%E0%A4%97%E0%A5%8C%E0%A4%A4%E0%A4%AE
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official health staff listing | Official Municipality | 1 contact(s) | https://www.mayadevimunrupandehi.gov.np/content/%E0%A4%B8%E0%A5%80%E0%A4%A4%E0%A4%BE-%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF
+  Categories: Health & Ambulance
+- Mayadevi Rural Municipality official staff directory | Official Municipality | 35 contact(s) | https://www.mayadevimunrupandehi.gov.np/staff
+  Categories: Ward Offices, Government Services, Information & Inquiry, Health & Ambulance
+- Mayadevi Rural Municipality official staff directory | Official Municipality | 34 contact(s) | https://www.mayadevimunrupandehi.gov.np/staff?page=1
+  Categories: Government Services, Disaster & Rescue, Health & Ambulance, Information & Inquiry
+- Mayadevi Rural Municipality official staff directory | Official Municipality | 18 contact(s) | https://www.mayadevimunrupandehi.gov.np/staff?page=2
+  Categories: Government Services, Ward Offices
 - Melauli Municipality Official Website | Official Municipality | 12 contact(s) | https://www.melaulimun.gov.np/
   Categories: Government Services, Information & Inquiry, Health & Ambulance, Ward Offices
 - Melauli Municipality Official Website | Official Municipality | 19 contact(s) | https://www.melaulimun.gov.np/officials
@@ -4331,6 +4751,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Naugad Rural Municipality Staff Directory | Official Municipality | 14 contact(s) | https://www.naugadmun.gov.np/staff
   Categories: Government Services, Health & Ambulance, Information & Inquiry, Government Complaints
+- Nawayug English School official website | Official Organisation | 1 contact(s) | https://www.nawayugschool.edu.np/
+  Categories: Other
 - Ncell Customer Care | Official Organisation | 5 contact(s) | https://www.ncell.com.np/en/individual/contact-us
   Categories: Information & Inquiry, Electricity & Utilities
 - Nepal Cancer Hospital and Research Center | Official Hospital | 1 contact(s) | https://www.nch.com.np/public/contact
@@ -4439,8 +4861,12 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Information & Inquiry, Government Complaints, Other, Electricity & Utilities
 - National Women Commission Helpline | Official Government | 8 contact(s) | https://www.nwchelpline.gov.np/
   Categories: Women & Children
+- Omsatiya Rural Municipality official homepage | Official Municipality | 12 contact(s) | https://www.omsatiyamun.gov.np/
+  Categories: Ward Offices, Government Services
 - Office of the Prime Minister and Council of Ministers | Official Government | 4 contact(s) | https://www.opmcm.gov.np/en
   Categories: Government Complaints, Information & Inquiry
+- Padmapani Yog tatha Prakritik Hospital | Official Hospital | 1 contact(s) | https://www.padampaninaturopathy.com.np/
+  Categories: Hospitals
 - Panauti Municipality | Official Municipality | 8 contact(s) | https://www.panautimun.gov.np/en/node/338
   Categories: Ward Offices, Women & Children
 - Panauti Municipality | Official Municipality | 6 contact(s) | https://www.panautimun.gov.np/en/node/340
@@ -4449,10 +4875,20 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry
 - Panchkhal Municipality primary health centre page | Official Municipality | 2 contact(s) | https://www.panchkhalmun.gov.np/en/node/568
   Categories: Health & Ambulance, Hospitals
+- Panchkhapan Municipality | Official Municipality | 1 contact(s) | https://www.panchkhapanmun.gov.np/
+  Categories: Police & Security
+- Parijat Secondary English Boarding School official website | Official Organisation | 1 contact(s) | https://www.parijatboarding.edu.np/contact
+  Categories: Other
 - Pathari Shanishchare Municipality ward profile | Official Municipality | 1 contact(s) | https://www.patharishanishcharemun.gov.np/en/node/92
   Categories: Ward Offices
 - Pathivara Yangwarak Rural Municipality elected officials directory | Official Municipality | 8 contact(s) | https://www.pathivarayangwarakmun.gov.np/officials
   Categories: Government Services, Ward Offices
+- Pauwadungma Rural Municipality | Official Municipality | 2 contact(s) | https://www.pauwadungmamun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A7-%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%B8%E0%A4%BF%E0%A4%B2%E0%A4%BE
+  Categories: Ward Offices
+- Pauwadungma Rural Municipality | Official Municipality | 2 contact(s) | https://www.pauwadungmamun.gov.np/content/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%AC-%E0%A4%A0%E0%A5%82%E0%A4%B2%E0%A5%8B%E0%A4%A6%E0%A5%81%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%BE
+  Categories: Ward Offices
+- Pauwadungma Rural Municipality | Official Municipality | 7 contact(s) | https://www.pauwadungmamun.gov.np/staff
+  Categories: Government Services, Health & Ambulance
 - Phakphokthum Rural Municipality | Official Municipality | 3 contact(s) | https://www.phakphokthummun.gov.np/staff?page=1
   Categories: Government Services, Ward Offices
 - Phaktanglung Rural Municipality official website | Official Municipality | 23 contact(s) | https://www.phaktanglungmun.gov.np/
@@ -4483,6 +4919,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry, Government Complaints
 - Phungling Municipality official ward page | Official Municipality | 2 contact(s) | https://www.phunglingmun.gov.np/ne/ward-3
   Categories: Ward Offices
+- Polar Star Secondary English Boarding School official website | Official Organisation | 1 contact(s) | https://www.pssebs.edu.np/
+  Categories: Other
 - Purchaudi Official Public Directory | Official Municipality | 6 contact(s) | https://www.purchaudimun.gov.np/
   Categories: Government Services, Information & Inquiry
 - Shakti FM | Official Organisation | 1 contact(s) | https://www.radioshakti.com.np/
@@ -4551,6 +4989,14 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Health & Ambulance, Information & Inquiry, Government Services, Ward Offices
 - Shahidbhumi Rural Municipality official website | Official Municipality | 3 contact(s) | https://www.sahidbhumimun.gov.np/staff
   Categories: Government Services, Government Complaints
+- Sainamaina Municipality official directory | Official Municipality | 17 contact(s) | https://www.sainamainamun.gov.np/en
+  Categories: Government Complaints, Disaster & Rescue, Health & Ambulance, Ward Offices
+- Sainamaina Municipality official directory | Official Municipality | 1 contact(s) | https://www.sainamainamun.gov.np/en/content/contact
+  Categories: Government Services
+- Sainamaina Municipality official directory | Official Municipality | 10 contact(s) | https://www.sainamainamun.gov.np/en/staff
+  Categories: Government Services, Information & Inquiry, Ward Offices
+- Sainamaina Municipality | Official Municipality | 1 contact(s) | https://www.sainamainamun.gov.np/ne/content/%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF-0
+  Categories: Police & Security
 - Sakela Rural Municipality official website | Official Municipality | 1 contact(s) | https://www.sakelamun.gov.np/
   Categories: Government Services
 - Sakela Rural Municipality official website | Official Municipality | 1 contact(s) | https://www.sakelamun.gov.np/contact
@@ -4559,6 +5005,14 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Salpasilichho Rural Municipality official staff directory | Official Municipality | 16 contact(s) | https://www.salpasilichhomun.gov.np/staff
   Categories: Government Services, Information & Inquiry, Health & Ambulance, Women & Children
+- Sammarimai Rural Municipality official homepage | Official Municipality | 1 contact(s) | https://www.sammarimaimun.gov.np/
+  Categories: Government Services
+- Sammarimai Rural Municipality official website | Official Municipality | 1 contact(s) | https://www.sammarimaimun.gov.np/content/%E0%A4%B0%E0%A4%BE%E0%A4%AE-%E0%A4%B8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BE
+  Categories: Government Services
+- Sammarimai Rural Municipality official ward directory | Official Municipality | 7 contact(s) | https://www.sammarimaimun.gov.np/list-all-ward/
+  Categories: Ward Offices
+- Sammarimai Rural Municipality official website | Official Municipality | 2 contact(s) | https://www.sammarimaimun.gov.np/services
+  Categories: Government Services, Information & Inquiry
 - Sampada Laghubitta official branch directory | Official Organisation | 1 contact(s) | https://www.sampadalaghubitta.com.np/branches
   Categories: Other
 - Sandakpur Rural Municipality | Official Municipality | 1 contact(s) | https://www.sandakpurmun.gov.np/contact
@@ -4567,6 +5021,10 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Ward Offices
 - Sangurigadhi Rural Municipality official website | Official Municipality | 6 contact(s) | https://www.sangurigadhimun.gov.np/officials
   Categories: Ward Offices
+- Sabhapokhari Rural Municipality official homepage | Official Municipality | 1 contact(s) | https://www.savapokharimun.gov.np/
+  Categories: Information & Inquiry
+- Step By Step English Secondary School official website | Official Organisation | 1 contact(s) | https://www.sbsschool.edu.np/
+  Categories: Other
 - Public police-number directory | Public Directory | 1 contact(s) | https://www.scribd.com/document/528851758/All-Police-Office-Number-2072-05-21
   Categories: Police & Security
 - Shadananda Municipality official website | Official Municipality | 3 contact(s) | https://www.shadanandmun.gov.np/en
@@ -4583,6 +5041,14 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Women & Children, Information & Inquiry, Ward Offices
 - Shivanath Rural Municipality Official Website | Official Municipality | 8 contact(s) | https://www.shivanathmun.gov.np/officials
   Categories: Government Services, Ward Offices, Information & Inquiry
+- Shivraj Municipality, Kapilvastu official website | Official Municipality | 10 contact(s) | https://www.shivrajmun.gov.np/en/staff?page=5
+  Categories: Government Services
+- Shivraj Municipality, Kapilvastu official website | Official Municipality | 3 contact(s) | https://www.shivrajmun.gov.np/en/staff?page=7
+  Categories: Police & Security, Health & Ambulance
+- Suddhodhan Rural Municipality, Kapilvastu | Official Municipality | 5 contact(s) | https://www.shuddhodhanmunkapilvastu.gov.np/staff
+  Categories: Government Services, Information & Inquiry
+- Suddhodhan Rural Municipality official staff directory | Official Municipality | 20 contact(s) | https://www.shuddhodhanmunrupandehi.gov.np/staff
+  Categories: Government Services, Information & Inquiry, Health & Ambulance, Ward Offices
 - Siddhalek Rural Municipality elected representatives directory | Official Municipality | 39 contact(s) | https://www.siddhalekmun.gov.np/pages/elected-representatives-and-officials-details/
   Categories: Government Services, Ward Offices
 - Siddhalek Rural Municipality official staff directory | Official Municipality | 6 contact(s) | https://www.siddhalekmun.gov.np/staff
@@ -4599,13 +5065,23 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services, Information & Inquiry, Government Complaints, Health & Ambulance
 - Sigas Rural Municipality Staff Directory | Official Municipality | 18 contact(s) | https://www.sigasmun.gov.np/staff?page=1
   Categories: Government Services, Health & Ambulance, Ward Offices
+- Silichong Rural Municipality official homepage | Official Municipality | 3 contact(s) | https://www.silichongmun.gov.np/
+  Categories: Government Services
+- Siyari Rural Municipality official website | Official Municipality | 7 contact(s) | https://www.siyarimun.gov.np/
+  Categories: Government Services, Government Complaints, Information & Inquiry
+- Siyari Rural Municipality educational directory 2079 | Official Municipality | 20 contact(s) | https://www.siyarimun.gov.np/sites/siyarimun.gov.np/files/%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%B6%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95%20%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3%20%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AF.pdf
+  Categories: Other
+- Siyari Rural Municipality official staff directory | Official Municipality | 49 contact(s) | https://www.siyarimun.gov.np/staff
+  Categories: Government Services, Health & Ambulance, Information & Inquiry, Ward Offices
 - Swarojgar Laghubitta Bittiya Sanstha Limited | Official Organisation | 1 contact(s) | https://www.slbbl.com.np/branch_category/bagmati/
   Categories: Other
 - Internews media and humanitarian directory | Public Directory | 3 contact(s) | https://www.slideshare.net/slideshow/media-and-humanitarian-directory-internews/50197643
   Categories: Other
 - Solududhkunda Municipality official website | Official Municipality | 14 contact(s) | https://www.solududhkundamun.gov.np/en
   Categories: Government Services, Ward Offices
-- Sotang Rural Municipality official website | Official Municipality | 33 contact(s) | https://www.sotangmun.gov.np/staff
+- Solududhkunda Municipality | Official Municipality | 19 contact(s) | https://www.solududhkundamun.gov.np/en/staff
+  Categories: Government Services, Women & Children, Health & Ambulance
+- Sotang Rural Municipality official website | Official Municipality | 35 contact(s) | https://www.sotangmun.gov.np/staff
   Categories: Government Services, Health & Ambulance, Information & Inquiry, Women & Children
 - Star Hospital Limited | Official Hospital | 1 contact(s) | https://www.starhospitallimited.com/Contact
   Categories: Hospitals
@@ -4691,6 +5167,12 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Government Services
 - Thulung Dudhkoshi Rural Municipality official website | Official Municipality | 1 contact(s) | https://www.thulungdudhkoshimun.gov.np/designation/%E0%A4%B5%E0%A4%A1%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A5%A7-%E0%A4%A8%E0%A4%82
   Categories: Ward Offices
+- Thulung Dudhkoshi Rural Municipality | Official Municipality | 27 contact(s) | https://www.thulungdudhkoshimun.gov.np/staff
+  Categories: Government Services, Health & Ambulance, Ward Offices, Police & Security
+- Tilottama Municipality official website | Official Municipality | 7 contact(s) | https://www.tilottamamun.gov.np/en/elected-officials?page=1
+  Categories: Government Services
+- Tilottama Municipality staff directory | Official Municipality | 94 contact(s) | https://www.tilottamamun.gov.np/en/staff?page=1
+  Categories: Government Services, Health & Ambulance, Ward Offices, Women & Children
 - Tokha Municipality Official Website | Official Municipality | 2 contact(s) | https://www.tokhamun.gov.np/en
   Categories: Government Services, Information & Inquiry
 - Tokha Municipality Official Profile / Elected Officials | Official Municipality | 1 contact(s) | https://www.tokhamun.gov.np/en/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80
@@ -4735,6 +5217,8 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Health & Ambulance, Women & Children, Government Services, Government Complaints
 - Triveni Municipality Official Website | Official Municipality | 11 contact(s) | https://www.trivenimunbajura.gov.np/elected-officials
   Categories: Government Services, Ward Offices
+- Tyamkemaiyung Rural Municipality | Official Municipality | 2 contact(s) | https://www.tyamkemaiyummun.gov.np/officials
+  Categories: Government Services
 - Udayapurgadhi Rural Municipality official website | Official Municipality | 5 contact(s) | https://www.udayapurgadhimun.gov.np/node/42
   Categories: Ward Offices
 - Udayapurgadhi Rural Municipality official website | Official Municipality | 4 contact(s) | https://www.udayapurgadhimun.gov.np/node/49
@@ -4767,12 +5251,18 @@ Complete record-level source register: contact_sources.csv (one row per director
   Categories: Hospitals
 - World Wide Phone Books public business directory | Public Directory | 1 contact(s) | https://www.worldwidephonebooks.com/NP/sunaulo-polyclinic-pvt-ltd-985-5068832
   Categories: Health & Ambulance
+- Yashodhara Rural Municipality, Kapilvastu official website | Official Municipality | 16 contact(s) | https://www.yasodharamun.gov.np/officials
+  Categories: Government Services, Ward Offices
 - Yangwarak Rural Municipality official website | Official Municipality | 3 contact(s) | https://yangwarakmunpanchthar.gov.np/
   Categories: Government Services, Information & Inquiry
 - Yangwarak Rural Municipality official website | Official Municipality | 3 contact(s) | https://yangwarakmunpanchthar.gov.np/officials
   Categories: Government Services, Information & Inquiry
 - Yangwarak Rural Municipality official website | Official Municipality | 9 contact(s) | https://yangwarakmunpanchthar.gov.np/staff
   Categories: Government Services, Government Complaints, Health & Ambulance
+- Yashodhara Rural Municipality, Kapilvastu official website | Official Municipality | 1 contact(s) | https://yasodharamun.gov.np/
+  Categories: Information & Inquiry
+- Yashodhara Rural Municipality, Kapilvastu official website | Official Municipality | 35 contact(s) | https://yasodharamun.gov.np/staff
+  Categories: Government Services
 - Yopoho public health directory | Public Directory | 1 contact(s) | https://yopoho.com/health/list.php?cat=hospital&paging=30&pgnom=2
   Categories: Health & Ambulance
 - Yopoho public health directory | Public Directory | 1 contact(s) | https://yopoho.com/health/more.php?iid=1300250&key=Contact+Us
